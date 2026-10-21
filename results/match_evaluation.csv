@@ -1,0 +1,101 @@
+true_qid,true_name,matched_qid,matched_name,correct,distance,runner_up_distance
+Q7148215,Patsy's,Q7148215,Patsy's,True,56,106
+Q6888636,Modern Diner,Q6888636,Modern Diner,True,76,110
+Q7284154,Huber's Restaurant,Q7284154,Huber's Restaurant,True,54,110
+Q5473046,Forum Cafeteria,Q5473046,Forum Cafeteria,True,76,102
+Q6788252,Matt's Bar,Q6788252,Matt's Bar,True,66,108
+Q6838530,Mickey's Diner,Q6838530,Mickey's Diner,True,64,104
+Q4668622,Above & Beyond Children's Museum,Q4668622,Above & Beyond Children's Museum,True,86,90
+Q5364708,Ellen's Stardust Diner,Q5364708,Ellen's Stardust Diner,True,72,106
+Q6842960,Midpoint Café,Q6842960,Midpoint Café,True,66,112
+Q7208553,Pok Pok,Q7208553,Pok Pok,True,68,108
+Q5159601,Coney Island Hot Dog Stand,Q5159601,Coney Island Hot Dog Stand,True,66,102
+Q6788256,Matt's Place Drive-In,Q6788256,Matt's Place Drive-In,True,80,104
+Q5325699,Earl Abel's,Q5325699,Earl Abel's,True,76,106
+Q7017597,Newcomb's Ranch,Q7017597,Newcomb's Ranch,True,74,104
+Q6783747,Masonic Temple,Q6783747,Masonic Temple,True,94,106
+Q6841166,Middendorf's,Q6841166,Middendorf's,True,66,106
+Q7305590,Alien Pizza Planet,Q7305590,Alien Pizza Planet,True,66,108
+Q7303406,Red's Eats,Q7303406,Red's Eats,True,66,110
+Q6836541,Michel Richard Citronelle,Q6836541,Michel Richard Citronelle,True,70,108
+Q7069674,Numero 28,Q7069674,Numero 28,True,72,110
+Q386481,Jimmy Carter Library and Museum,Q386481,Jimmy Carter Library and Museum,True,64,102
+Q5368318,Elwood Bar,Q5368318,Elwood Bar,True,48,108
+Q7305090,Red Square,Q7305090,Red Square,True,70,112
+Q6002707,Children's Museum of Atlanta,Q6002707,Children's Museum of Atlanta,True,70,104
+Q5458028,Flav's Fried Chicken,Q5458028,Flav's Fried Chicken,True,58,98
+Q6858003,Milk Pail Restaurant,Q6858003,Milk Pail Restaurant,True,60,112
+Q7028017,Nick Tahou Hots,Q7028017,Nick Tahou Hots,True,54,104
+Q7979573,Weenie Beenie,Q7979573,Weenie Beenie,True,62,104
+Q1055872,Disneyland Hotel,Q1055872,Disneyland Hotel,True,64,102
+Q5098176,Children's Museum of Houston,Q5098176,Children's Museum of Houston,True,48,102
+Q2795889,Fairmont Century Plaza,Q2795889,Fairmont Century Plaza,True,60,102
+Q7589025,St. Johns Signal Tower Gas Station,Q7589025,St. Johns Signal Tower Gas Station,True,70,108
+Q68606671,Market House,Q68606671,Market House,True,68,108
+Q680685,Country Music Hall of Fame and Museum,Q680685,Country Music Hall of Fame and Museum,True,76,100
+Q6941084,Museum of the Great Plains,Q6941084,Museum of the Great Plains,True,84,106
+Q1147483,Sahara Las Vegas,Q1147483,Sahara Las Vegas,True,50,108
+Q6788094,Matsugen,Q6788094,Matsugen,True,50,112
+Q5374068,Empire Diner,Q5374068,Empire Diner,True,70,104
+Q6880105,Mister C's,Q6880105,Mister C's,True,64,102
+Q7137749,Park Grill,Q7137749,Park Grill,True,70,110
+Q263750,"Long Island Museum of American Art, History, and Carriages",Q263750,"Long Island Museum of American Art, History, and Carriages",True,54,106
+Q6888549,Modern Apizza,Q6888549,Modern Apizza,True,66,108
+Q5364825,Greens Restaurant,Q5364825,Greens Restaurant,True,68,108
+Q1150966,New Frontier Hotel and Casino,Q1150966,New Frontier Hotel and Casino,True,56,102
+Q7143177,Pat's King of Steaks,Q7143177,Pat's King of Steaks,True,72,110
+Q7919737,Venetian Theatre,Q7919737,Venetian Theatre,True,56,106
+Q6917958,Moto,Q6917958,Moto,True,72,112
+Q6843282,Midway Gardens,Q6843282,Midway Gardens,True,68,108
+Q6929915,Mrs. Wilkes' Dining Room,Q6929915,Mrs. Wilkes' Dining Room,True,72,106
+Q7229596,Pops,Q7229596,Pops,True,68,112
+Q5098181,Children's Museum of Richmond,Q5098181,Children's Museum of Richmond,True,68,102
+Q259242,Huntington Beach State Park,Q259242,Huntington Beach State Park,True,58,104
+Q61759147,ARIA Patisserie,Q61759147,ARIA Patisserie,True,58,106
+Q7006839,New Deal Cafe,Q7006839,New Deal Cafe,True,84,100
+Q7074427,Oasis Restaurant,Q7074427,Oasis Restaurant,True,64,106
+Q7171811,Pete's Tavern,Q7171811,Pete's Tavern,True,72,104
+Q7102546,Original Joe's,Q7102546,Original Joe's,True,50,106
+Q2425363,Eden Musée,Q2425363,Eden Musée,True,86,110
+Q7231899,Portland City Grill,Q7231899,Portland City Grill,True,44,106
+Q6907555,Moon River Brewing Company,Q6907555,Moon River Brewing Company,True,68,112
+Q7067680,Nu-Way Weiners,Q7067680,Nu-Way Weiners,True,60,110
+Q7881256,Umberto's Clam House,Q7881256,Umberto's Clam House,True,58,98
+Q7316081,Restaurant Aquavit,Q7316081,Restaurant Aquavit,True,62,110
+Q3030299,Disney's BoardWalk Resort,Q3030299,Disney's BoardWalk Resort,True,64,106
+Q738549,Muhammad Ali Center,Q738549,Muhammad Ali Center,True,72,110
+Q61758980,Café Vettro,Q61758980,Café Vettro,True,72,110
+Q7730314,The Discovery Museums,Q7730314,The Discovery Museums,True,64,112
+Q238990,United States Holocaust Memorial Museum,Q238990,United States Holocaust Memorial Museum,True,62,108
+Q7197852,Pirates' House,Q7197852,Pirates' House,True,76,102
+Q7284581,Rainbow Bar and Grill,Q7284581,Rainbow Bar and Grill,True,56,110
+Q75683454,Pacific Wharf Café,Q75683454,Pacific Wharf Café,True,60,106
+Q7132533,Papaya King,Q7132533,Papaya King,True,80,104
+Q7297098,Ray's Hell Burger,Q7297098,Ray's Hell Burger,True,66,102
+Q7085265,Old Town Bar and Restaurant,Q7085265,Old Town Bar and Restaurant,True,70,110
+Q5314813,Dundee Dell,Q5314813,Dundee Dell,True,56,108
+Q6908690,Moosewood Restaurant,Q6908690,Moosewood Restaurant,True,72,104
+Q5017151,Caffe Trieste,Q5017151,Caffe Trieste,True,68,108
+Q7828399,Totonno's,Q7828399,Totonno's,True,70,110
+Q7143175,Pat's Hubba Hubba,Q7143175,Pat's Hubba Hubba,True,70,106
+Q901463,Boston Children's Museum,Q901463,Boston Children's Museum,True,54,102
+Q3307878,Miami Children's Museum,Q3307878,Miami Children's Museum,True,60,106
+Q7083901,Old Ebbitt Grill,Q7083901,Old Ebbitt Grill,True,84,108
+Q5316439,Durgin-Park,Q5316439,Durgin-Park,True,82,98
+Q6838849,Mickies Dairy Bar,Q6838849,Mickies Dairy Bar,True,72,108
+Q826520,Q826520,Q826520,Q826520,True,68,104
+Q6926890,Movieland Wax Museum,Q6926890,Movieland Wax Museum,True,78,108
+Q2841248,Harrah's Reno,Q2841248,Harrah's Reno,True,78,110
+Q5364415,Elks Victory Lodge-Ruby's Grill Building,Q5364415,Elks Victory Lodge-Ruby's Grill Building,True,94,104
+Q7102558,Original Pantry Cafe,Q7102558,Original Pantry Cafe,True,60,106
+Q6758739,Marea,Q6758739,Marea,True,68,98
+Q7131356,Pann's,Q7131356,Pann's,True,76,108
+Q6760189,Margaritaville Casino and Restaurant,Q6760189,Margaritaville Casino and Restaurant,True,60,108
+Q5098190,Children's Museum of the Arts,Q5098190,Children's Museum of the Arts,True,58,110
+Q7886046,Union Square Cafe,Q7886046,Union Square Cafe,True,68,108
+Q2746732,Conrad Indianapolis,Q2746732,Conrad Indianapolis,True,68,108
+Q5303728,Doyle's Cafe,Q5303728,Doyle's Cafe,True,70,108
+Q5302252,Doumar's Cones and BBQ,Q5302252,Doumar's Cones and BBQ,True,92,106
+Q2894308,Carnegie Deli,Q2894308,Carnegie Deli,True,70,108
+Q255559,Amon Carter Museum of American Art,Q255559,Amon Carter Museum of American Art,True,44,108
+Q6857986,Milk Farm Restaurant,Q6857986,Milk Farm Restaurant,True,54,110

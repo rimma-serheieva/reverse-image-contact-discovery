@@ -1,0 +1,801 @@
+qid,category,name,image_url,declared_website,city,lat,lon
+Q6751531,restaurant,Manresa,http://commons.wikimedia.org/wiki/Special:FilePath/Manresa%20%28restaurant%29.jpg,http://www.manresarestaurant.com/,Los Gatos,37.2272,-121.981
+Q6758739,restaurant,Marea,http://commons.wikimedia.org/wiki/Special:FilePath/Marea%20interior.jpg,,Manhattan,40.7674,-73.9809
+Q6760189,restaurant,Margaritaville Casino and Restaurant,http://commons.wikimedia.org/wiki/Special:FilePath/MargaritavilleCasinoBiloxi.jpg,,Biloxi,30.40166667,-88.85972222
+Q6780198,restaurant,Mary Mac's Tea Room,http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Mac%27s%20Tea%20Room%20Inside.jpg,http://www.marymacs.com/,Georgia,33.7724,-84.3796
+Q6783747,restaurant,Masonic Temple,http://commons.wikimedia.org/wiki/Special:FilePath/Masonic%20Temple%20%28Pendleton%2C%20Oregon%29.jpg,,Pendleton,45.670556,-118.785278
+Q6788094,restaurant,Matsugen,http://commons.wikimedia.org/wiki/Special:FilePath/Matsugentasting.JPG,http://www.jean-georges.com/,Manhattan,,
+Q6788252,restaurant,Matt's Bar,http://commons.wikimedia.org/wiki/Special:FilePath/MattsBar.jpg,http://www.mattsbar.com/,Minneapolis,44.9394,-93.2475
+Q6788256,restaurant,Matt's Place Drive-In,http://commons.wikimedia.org/wiki/Special:FilePath/Matt%27s%20Place%20Drive-In%20%282013%29%20-%20Silver%20Bow%20County%2C%20Montana.png,,Butte,45.991667,-112.538333
+Q6836541,restaurant,Michel Richard Citronelle,http://commons.wikimedia.org/wiki/Special:FilePath/Citronelle%27s%20kitchen.jpg,,"Washington, D.C.",38.904889,-77.059611
+Q6838530,restaurant,Mickey's Diner,http://commons.wikimedia.org/wiki/Special:FilePath/Mickey%27s%20Diner%205.jpg,,Saint Paul,44.9475,-93.097778
+Q6838849,restaurant,Mickies Dairy Bar,http://commons.wikimedia.org/wiki/Special:FilePath/Mickies%20Dairy%20Bar%20%28Madison%2C%20WI%29.jpg,,Wisconsin,43.0675,-89.4131
+Q6841166,restaurant,Middendorf's,http://commons.wikimedia.org/wiki/Special:FilePath/Manchac%20Middendorf.jpg,http://www.middendorfsrestaurant.com,Manchac,30.29,-90.401111111
+Q6842960,restaurant,Midpoint Café,http://commons.wikimedia.org/wiki/Special:FilePath/US66%20midpoint%20caf%C3%A9%20Adrian%20TX.jpg,,Texas,35.271,-102.673
+Q6843282,restaurant,Midway Gardens,http://commons.wikimedia.org/wiki/Special:FilePath/Midway%20Gardens%20%28NBY%205976%29.jpg,,Chicago,41.7853,-87.6068
+Q6857986,restaurant,Milk Farm Restaurant,http://commons.wikimedia.org/wiki/Special:FilePath/MilkFarmSign.jpg,,,38.47551,-121.82128
+Q6858003,restaurant,Milk Pail Restaurant,http://commons.wikimedia.org/wiki/Special:FilePath/CountryTeaRoomEastDundeeIL.jpg,,Illinois,42.076667,-88.26
+Q6876226,restaurant,Miss Bellows Falls Diner,http://commons.wikimedia.org/wiki/Special:FilePath/Miss%20Bellows%20Falls%20Diner%2C%20side%20view%2C%20Bellows%20Falls%2C%20Vermont%2C%20by%20John%20Margolies%2C%201978%2C%20from%20the%20Library%20of%20Congress%20-%20master-pnp-mrg-00100-00102a.tif,,Bellows Falls,43.135,-72.4475
+Q6880105,restaurant,Mister C's,http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Boy.jpg,http://www.mistercs.com,Nebraska,41.3075,-95.9561
+Q6888549,restaurant,Modern Apizza,http://commons.wikimedia.org/wiki/Special:FilePath/Modern%20Apizza%27s%20Entrance.jpg,http://www.modernapizza.com/,Connecticut,41.3138,-72.9127
+Q6888636,restaurant,Modern Diner,http://commons.wikimedia.org/wiki/Special:FilePath/Modern%20diner.jpg,,Rhode Island,41.868889,-71.386944
+Q6907555,restaurant,Moon River Brewing Company,http://commons.wikimedia.org/wiki/Special:FilePath/Moon%20River%20Brewing%20Company%20-%20Savannah%2C%20Georgia%2C%20USA.jpg,http://www.moonriverbrewing.com/,,32.080972222,-81.092083333
+Q6908690,restaurant,Moosewood Restaurant,http://commons.wikimedia.org/wiki/Special:FilePath/Moosewood%20Restaurant%20at%20DeWitt%20Mall%2C%20Ithaca.jpg,https://www.moosewoodrestaurant.com/,New York,42.441352777,-76.498747222
+Q6915388,restaurant,Mosca's,http://commons.wikimedia.org/wiki/Special:FilePath/Moscas%20Restaurant%20Louisiana%202009.JPG,http://www.moscasrestaurant.com,Louisiana,29.911929,-90.23048
+Q6917958,restaurant,Moto,http://commons.wikimedia.org/wiki/Special:FilePath/Moto%20sign.jpg,,Illinois,41.8865,-87.651805555
+Q6929915,restaurant,Mrs. Wilkes' Dining Room,http://commons.wikimedia.org/wiki/Special:FilePath/Algernon%20Hartridge%20Duplex.jpg,,,32.0725,-81.09583333
+Q6943139,restaurant,Musso & Frank Grill,http://commons.wikimedia.org/wiki/Special:FilePath/Musso%26Franks%2005.jpg,https://mussoandfrank.com/,Los Angeles,34.1017,-118.335
+Q7006839,restaurant,New Deal Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Marc-Gunn-New-Deal-Cafe-July-2011.jpg,https://www.newdealcafe.com/,Greenbelt,39.00135,-76.87653
+Q7017597,restaurant,Newcomb's Ranch,http://commons.wikimedia.org/wiki/Special:FilePath/Ducati%20Monster%2C%20GSX-R%20and%20other%20motorcycles%20in%20lot%20at%20Newcomb%27s%20Ranch.jpg,http://www.newcombsranch.com/,California,34.3298,-118.002
+Q7028017,restaurant,Nick Tahou Hots,http://commons.wikimedia.org/wiki/Special:FilePath/Nick%20Tahou%20Hots.jpg,http://www.garbageplate.com/,Rochester,43.1538,-77.6218
+Q7067680,restaurant,Nu-Way Weiners,http://commons.wikimedia.org/wiki/Special:FilePath/Nu-Way%20Weiners%20number%205%20at%20148%20Emery%20Highway%20in%20Macon%2C%20Georgia%2C%20USA.jpg,http://www.nu-wayweiners.com,Macon,32.836845,-83.630561
+Q7069674,restaurant,Numero 28,http://commons.wikimedia.org/wiki/Special:FilePath/Numero%2028%20East%20Village%20Store%20Front.jpg,http://www.numero28.com/,Manhattan,40.7693,-73.9551
+Q7074427,restaurant,Oasis Restaurant,http://commons.wikimedia.org/wiki/Special:FilePath/Oasis%20restaurant.jpg,https://www.oasis-austin.com/,Austin,30.4054,-97.8745
+Q7083901,restaurant,Old Ebbitt Grill,http://commons.wikimedia.org/wiki/Special:FilePath/Old%20Ebbitt%20Grill.jpg,https://www.ebbitt.com/,"Washington, D.C.",38.897947,-77.0332
+Q7085265,restaurant,Old Town Bar and Restaurant,http://commons.wikimedia.org/wiki/Special:FilePath/Old%20Town%20Restaurant.jpg,http://oldtownbar.com,Manhattan,40.7375,-73.9892
+Q7102546,restaurant,Original Joe's,http://commons.wikimedia.org/wiki/Special:FilePath/Original%20Joes%20North%20Beach%20SF.jpg,https://originaljoes.com/,San Francisco,37.8002,-122.4093
+Q7131356,restaurant,Pann's,http://commons.wikimedia.org/wiki/Special:FilePath/Pann%27s%20sign.jpg,http://www.panns.com/,,33.978115,-118.370566
+Q7132533,restaurant,Papaya King,http://commons.wikimedia.org/wiki/Special:FilePath/PapayaKing-1%20%2848083760988%29.jpg,http://www.papayaking.com,New York City,40.779086111,-73.954202777
+Q7137749,restaurant,Park Grill,http://commons.wikimedia.org/wiki/Special:FilePath/20080602%20Park%20Grill%20Plaza%20from%20AT%26T%20Plaza.JPG,http://www.parkgrillchicago.com/,Illinois,41.8824619,-87.6234239
+Q7143175,restaurant,Pat's Hubba Hubba,http://commons.wikimedia.org/wiki/Special:FilePath/HubbaPortChesterNY.jpg,http://www.hubbaspc.com,Port Chester,41.0007707,-73.663381
+Q7143177,restaurant,Pat's King of Steaks,http://commons.wikimedia.org/wiki/Special:FilePath/Pat%27s%20King%20of%20Steaks%20%28Philadelphia%2C%20Pennsylvania%29%20001%20crop.jpg,http://www.patskingofsteaks.com/,Pennsylvania,39.9332,-75.1592
+Q7148213,restaurant,Patsy's Pizzeria,http://commons.wikimedia.org/wiki/Special:FilePath/NYC-East%20Harlem-Patsy%27s%20Pizzeria-01.jpg,http://www.thepatsyspizza.com/,Manhattan,40.79717,-73.93494
+Q7148215,restaurant,Patsy's,http://commons.wikimedia.org/wiki/Special:FilePath/Patsy%27s%20236%20W56%20jeh.jpg,http://www.patsys.com/,Manhattan,40.7656,-73.9827
+Q7169971,restaurant,Perry Wiles Grocery Company,http://commons.wikimedia.org/wiki/Special:FilePath/Perry%20Wiles%20Grocery%20Company.jpg,,Ohio,39.9408,-82.0089
+Q7171811,restaurant,Pete's Tavern,http://commons.wikimedia.org/wiki/Special:FilePath/Pete%27s%20Tavern%20%2851708610272%29.jpg,http://www.petestavern.com/,Manhattan,40.7365,-73.9867
+Q7197852,restaurant,Pirates' House,http://commons.wikimedia.org/wiki/Special:FilePath/Pirate%27s%20House%2C%20Savannah%2C%20Georiga%2C%20US.JPG,,Georgia,32.0781,-81.0843
+Q7208416,restaurant,Poirier's Diner,http://commons.wikimedia.org/wiki/Special:FilePath/West%20Side%20Diner%2C%20Providence.jpg,,Rhode Island,41.816291,-71.432007
+Q7208553,restaurant,Pok Pok,http://commons.wikimedia.org/wiki/Special:FilePath/Pok%20Pok%20Restaurant%20%26%20Whiskey%20Soda%20Lounge.jpg,,,45.50468,-122.63219
+Q7229596,restaurant,Pops,http://commons.wikimedia.org/wiki/Special:FilePath/Pops%20sign%20in%20Arcadia.jpg,http://pops66.com/,Oklahoma,35.6586,-97.3351
+Q7231273,restaurant,Port of Subs,http://commons.wikimedia.org/wiki/Special:FilePath/Port%20of%20Subs%20Utah.png,https://portofsubs.com/,Nevada,,
+Q7231899,restaurant,Portland City Grill,http://commons.wikimedia.org/wiki/Special:FilePath/Inside%20Portland%20City%20Grill.jpg,http://www.portlandcitygrill.com/,Portland,45.52215,-122.676
+Q7284154,restaurant,Huber's Restaurant,http://commons.wikimedia.org/wiki/Special:FilePath/Huber%27s%20in%20Portland.jpg,http://www.hubers.com/,Portland,45.520230555,-122.675022222
+Q7284581,restaurant,Rainbow Bar and Grill,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Rainbow%20Bar%20%26%20Grill.jpg,https://www.rainbowbarandgrill.com/,California,34.090888888,-118.38825
+Q7297098,restaurant,Ray's Hell Burger,http://commons.wikimedia.org/wiki/Special:FilePath/Obama%20Medvedev%20Ray%27s%20Hell%20Burger%20June%202010.jpg,http://www.rayshellburger.com,Arlington County,38.894057,-77.077678
+Q7303406,restaurant,Red's Eats,http://commons.wikimedia.org/wiki/Special:FilePath/Red%27s%20Eats%2C%20Wiscasset%2C%20Maine%2C%20USA%202012.jpg,http://www.redseatsmaine.com/,Wiscasset,44.0025,-69.6643
+Q7305090,restaurant,Red Square,http://commons.wikimedia.org/wiki/Special:FilePath/Red%20Square%20Restaurant%20Mandalay%20Bay.jpg,https://redsquarelasvegas.com/,Paradise,36.092197,-115.176669
+Q7305590,restaurant,Alien Pizza Planet,http://commons.wikimedia.org/wiki/Special:FilePath/Alien%20Pizza%20Planet%20%28Disneyland%29%201.jpg,https://disneyland.disney.go.com/dining/disneyland/alien-pizza-planet/,Anaheim,33.810522,-117.916971
+Q7316081,restaurant,Restaurant Aquavit,http://commons.wikimedia.org/wiki/Special:FilePath/Restaurant%20Aquavit%20HDR%202022%20jeh.jpg,,Manhattan,40.7608,-73.9722
+Q7316091,restaurant,Restaurant Nora,http://commons.wikimedia.org/wiki/Special:FilePath/Restaurant%20Nora%2C%20Washington%20DC.jpg,,"Washington, D.C.",38.912806,-77.047389
+Q2894308,restaurant,Carnegie Deli,http://commons.wikimedia.org/wiki/Special:FilePath/Carnegie%20deli%20exterior.JPG,http://www.carnegiedeli.com/,New York City,40.7641,-73.9813
+Q4861728,restaurant,Barney Greengrass,http://commons.wikimedia.org/wiki/Special:FilePath/Barney%20Greengrass.jpg,http://www.barneygreengrass.com/,Manhattan,40.788,-73.9746
+Q5302252,restaurant,Doumar's Cones and BBQ,http://commons.wikimedia.org/wiki/Special:FilePath/Doumar%27s%20Barbecue%20from%20northeast.jpg,,Norfolk,36.866394,-76.284843
+Q5303728,restaurant,Doyle's Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Doyle%27s%20Cafe%2C%20Jamaica%20Plain%20MA.jpg,,Massachusetts,42.3065,-71.1073
+Q5314813,restaurant,Dundee Dell,http://commons.wikimedia.org/wiki/Special:FilePath/50th%20%26%20Underwood.jpg,http://www.dundeedell.com,Nebraska,41.265,-95.9908
+Q5316439,restaurant,Durgin-Park,http://commons.wikimedia.org/wiki/Special:FilePath/Durgin%20Park%202009.jpg,http://www.durginparkrestaurant.com,Boston,42.3605,-71.055111111
+Q5325699,restaurant,Earl Abel's,http://commons.wikimedia.org/wiki/Special:FilePath/Earl%20Abels%20%285984956951%29.jpg,,Texas,29.488453,-98.447868
+Q5351079,restaurant,El Coyote Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/El%20Coyote%20Cafe%20Los%20Angeles%20Aug%202022.jpg,http://www.elcoyotecafe.com/,Los Angeles,34.076,-118.349
+Q5359767,restaurant,Eleven Madison Park,http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Shot%20of%20Eleven%20Madison%20Park%20%289284511683%29.jpg,http://www.elevenmadisonpark.com,Manhattan,40.7417,-73.9872
+Q5364415,restaurant,Elks Victory Lodge-Ruby's Grill Building,http://commons.wikimedia.org/wiki/Special:FilePath/Building%20at%20322%20NE%202ned%20Street%20in%20Oklahoma%20City%2C%20OK.jpg,,Oklahoma,35.469444,-97.506111
+Q5364708,restaurant,Ellen's Stardust Diner,http://commons.wikimedia.org/wiki/Special:FilePath/Ellen%27s%20Stardust.jpg,http://www.ellensstardustdiner.com/,Manhattan,40.7618,-73.9834
+Q5364825,restaurant,Greens Restaurant,http://commons.wikimedia.org/wiki/Special:FilePath/Greens%20Restaurant.jpg,http://www.greensrestaurant.com/,San Francisco,37.8067,-122.4322
+Q5368318,restaurant,Elwood Bar,http://commons.wikimedia.org/wiki/Special:FilePath/Detroit%20December%202015%2011%20%28Elwood%20Bar%29.jpg,,Detroit,42.338472,-83.046944
+Q5374068,restaurant,Empire Diner,http://commons.wikimedia.org/wiki/Special:FilePath/Empire-Diner%2001.jpg,http://empire-diner.com,New York,40.7471,-74.0044
+Q5399876,restaurant,Essie's Original Hot Dog Shop,http://commons.wikimedia.org/wiki/Special:FilePath/TheDirtyOinOakland.jpg,,Pittsburgh,40.4421,-79.9565
+Q5437546,restaurant,Father's Office,http://commons.wikimedia.org/wiki/Special:FilePath/Father%27s%20Office.jpg,http://www.fathersoffice.com,California,34.0292,-118.498
+Q5443649,restaurant,Fentons Creamery,http://commons.wikimedia.org/wiki/Special:FilePath/Fentons%20Creamery%20in%20Oakland.jpg,http://www.fentonscreamery.com/,Oakland,37.82799722,-122.25006667
+Q5445247,restaurant,Ferrara Bakery and Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Front%20of%20Ferrara%20Bakery%20and%20Cafe.jpg,http://www.ferraracafe.com/,Manhattan,40.719,-73.997
+Q5449197,restaurant,Filomena Ristorante,http://commons.wikimedia.org/wiki/Special:FilePath/Pasta%20Ingredients.jpg,,"Washington, D.C.",38.904417,-77.062611
+Q5458028,restaurant,Flav's Fried Chicken,http://commons.wikimedia.org/wiki/Special:FilePath/Flav%27s%20Fried%20Chicken%20Sign.png,,Iowa,41.8538,-90.1865
+Q5458873,restaurant,Fleur de Lys,http://commons.wikimedia.org/wiki/Special:FilePath/Fleur%20de%20Lys.jpg,,San Francisco,37.7886,-122.413
+Q5464042,restaurant,Fog City Diner,http://commons.wikimedia.org/wiki/Special:FilePath/Fog%20City%20Diner%20exterior.jpg,,San Francisco,37.8035,-122.402
+Q5470221,restaurant,Formosa Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Formosa%20Cafe.JPG,https://theformosacafe.com/,California,34.0906,-118.346
+Q5473416,restaurant,Fossati's Delicatessen,http://commons.wikimedia.org/wiki/Special:FilePath/Fossati%27sDeli.jpg,,Texas,28.7975,-97.006944
+Q5486561,restaurant,Frank Fat's Restaurant,http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Fat%27s%20entrance.jpg,http://www.fatsrestaurants.com,Sacramento,38.5786,-121.4968
+Q5490433,restaurant,Comet Ping Pong,http://commons.wikimedia.org/wiki/Special:FilePath/Comet%20Ping%20Pong%20Pizzagate%202016%2001.jpg,,"Washington, D.C.",38.955833,-77.069722
+Q5518045,restaurant,Galatoire's,http://commons.wikimedia.org/wiki/Special:FilePath/2009-0228-NOLA-004-Galatoires.jpg,http://www.galatoires.com/,Louisiana,29.955,-90.069
+Q5518818,restaurant,Gallagher's Steak House,http://commons.wikimedia.org/wiki/Special:FilePath/Gallaghers-steak.jpg,https://www.gallaghersnysteakhouse.com/,Manhattan,40.7628,-73.9838
+Q5523190,restaurant,Gargiulo's Italian Restaurant,http://commons.wikimedia.org/wiki/Special:FilePath/Gargiulo%27s%20Italian%20Restaurant%20HDR%202023%20jeh.jpg,http://www.gargiulos.com/,Brooklyn,40.5765,-73.9824
+Q5531064,restaurant,Gene & Jude's,http://commons.wikimedia.org/wiki/Special:FilePath/Gene%20and%20judes.jpg,http://geneandjudes.com,River Grove,41.93005,-87.84661
+Q5533401,restaurant,Geno's Steaks,http://commons.wikimedia.org/wiki/Special:FilePath/Genos%20Steaks.JPG,http://www.genosteaks.com/,Pennsylvania,39.9337,-75.1589
+Q5546970,restaurant,Georgetown Bagelry,http://commons.wikimedia.org/wiki/Special:FilePath/Georgetown%20Bagelry%2C%20Bethesda.jpg,,Maryland,38.965278,-77.103889
+Q5584529,restaurant,Gorat's,http://commons.wikimedia.org/wiki/Special:FilePath/Gorat%20Steakhouse.jpg,http://www.goratsomaha.com,Omaha,41.2413,-95.9886
+Q5587796,restaurant,Gotham Bar and Grill,http://commons.wikimedia.org/wiki/Special:FilePath/Gotham%20Bar%20Grill.jpg,http://www.gothambarandgrill.com,Manhattan,40.7344,-73.994
+Q5593638,restaurant,Gramercy Tavern,http://commons.wikimedia.org/wiki/Special:FilePath/Gramercy%20Tavern.jpg,http://www.gramercytavern.com/,Manhattan,40.7386,-73.9885
+Q5598121,restaurant,Gray's Papaya,http://commons.wikimedia.org/wiki/Special:FilePath/GraysPapayaMidtown.jpg,http://grayspapaya.nyc,Manhattan,40.7337,-73.9993
+Q5607449,restaurant,Grendel's Den,http://commons.wikimedia.org/wiki/Special:FilePath/Grendel%27s%20Den%2C%20Cambridge%20MA.jpg,http://www.grendelsden.com/,Massachusetts,42.3606,-71.1214
+Q5610902,restaurant,Ground Zero,http://commons.wikimedia.org/wiki/Special:FilePath/Ground%20Zero%20Blues%20Club.jpg,,Clarksdale,34.2,-90.57453
+Q5620603,restaurant,Gus's Pretzels,http://commons.wikimedia.org/wiki/Special:FilePath/Gus%27%20Pretzels.jpg,http://guspretzels.com/,Missouri,38.5969,-90.2175
+Q5643041,restaurant,Hallo Berlin,http://commons.wikimedia.org/wiki/Special:FilePath/Hallo%20Berlin%202015.jpg,http://www.halloberlinrestaurant.com/,Manhattan,40.7611,-73.9942
+Q5644304,restaurant,Hamburg Inn No. 2,http://commons.wikimedia.org/wiki/Special:FilePath/Hamburg%20Inn%20No.%202.JPG,https://www.hamburginn2.com/,Iowa,41.6641,-91.5314
+Q6896187,restaurant,Molinari's,http://commons.wikimedia.org/wiki/Special:FilePath/Molinari%20Delicatessen%27s%20building%20%285103436574%29.jpg,,San Francisco,37.798455,-122.4078586
+Q6939073,restaurant,Murray's Sturgeon Shop,http://commons.wikimedia.org/wiki/Special:FilePath/Murray%27s%20Sturgeon%20Shop.jpg,http://www.murrayssturgeon.com/,Manhattan,40.7906,-73.975
+Q7199997,restaurant,Pizzeria Bianco,http://commons.wikimedia.org/wiki/Special:FilePath/Phoenix-The%20Baird%20Machine%20Shop-1929-Phoenix%20Heritage%20Square.jpg,http://www.pizzeriabianco.com/,Phoenix,33.44921,-112.06564
+Q7405017,restaurant,Sally's Apizza,http://commons.wikimedia.org/wiki/Special:FilePath/Sally%27s%20apizza%20half%20tomato%20half%20with%20cheese%20%2872126%29.jpg,http://www.sallysapizza.com/,Connecticut,41.303,-72.9199
+Q7420080,restaurant,Santarpio's Pizza,http://commons.wikimedia.org/wiki/Special:FilePath/Santarpios-5apr09.jpg,http://www.santarpiospizza.com/,East Boston,42.3727,-71.0353
+Q28130647,restaurant,Purringtons Cat Lounge,http://commons.wikimedia.org/wiki/Special:FilePath/Portland%2C%20Oregon%20-%20February%2027%2C%202021%20-%20210.jpg,,,45.5486,-122.66184
+Q61980107,restaurant,STRIPSTEAK,http://commons.wikimedia.org/wiki/Special:FilePath/Stripsteak%20Restaurant.jpg,https://www.michaelmina.net/restaurants/las-vegas/stripsteak/,Las Vegas,36.091374,-115.177196
+Q104829751,restaurant,"Ox (Portland, Oregon)",http://commons.wikimedia.org/wiki/Special:FilePath/Portland%2C%20Oregon%20-%20February%2027%2C%202021%20-%20041.jpg,http://oxpdx.com/,,45.5394,-122.6619
+Q107622065,restaurant,Main Street Deli,http://commons.wikimedia.org/wiki/Special:FilePath/DSC27849%2C%20Circus%20Circus%2C%20Reno%2C%20Nevada.jpg,,Reno,36.137227906,-115.1652688
+Q109104545,restaurant,Roxy,http://commons.wikimedia.org/wiki/Special:FilePath/Roxy%20-%202021-10-17%20-%20Sarah%20Stierch.jpg,https://www.eldoradoreno.com/venue/restaurants/roxy,Reno,39.529660825,-119.814304981
+Q109125189,restaurant,Boomtown Steakhouse,http://commons.wikimedia.org/wiki/Special:FilePath/Boomtown%20Steakhouse%20-%202021-10-16%20-%20Sarah%20Stierch%2001.jpg,https://boomtownreno.com/steakhouse/,Verdi,39.511698366,-119.963534212
+Q110236166,restaurant,Manny’s Deli,http://commons.wikimedia.org/wiki/Special:FilePath/Manny%27s%20Deli.jpg,http://www.mannysdeli.com/,Chicago,41.8679,-87.6419
+Q110391697,restaurant,The Capital Grille,http://commons.wikimedia.org/wiki/Special:FilePath/Breakfast%20at%20the%20The%20Capital%20Grille%20restaurant%20%40%20Conrad%20Indianapolis%20hotel.jpg,https://www.thecapitalgrille.com/locations/in/indianapolis/indianapolis/8032,Indianapolis,39.767339434,-86.159207727
+Q110652442,restaurant,Broad Ripple Steakhouse,http://commons.wikimedia.org/wiki/Special:FilePath/Broad%20Ripple%20Steakhouse%202010.jpg,,Indianapolis,39.870533929,-86.141872957
+Q110659129,restaurant,Harry & Izzy's,http://commons.wikimedia.org/wiki/Special:FilePath/Harry%20%26%20Izzy%27s%20-%20Feb%202011%20-%20Paul%20Sableman.jpg,https://www.harryandizzys.com/,Indianapolis,39.764559355,-86.159668889
+Q135293334,restaurant,Ranosh,http://commons.wikimedia.org/wiki/Special:FilePath/Ranosh%20%2810202%29.jpg,,Houston,29.727331,-95.521038
+Q135299458,restaurant,Patio by La Pasha,http://commons.wikimedia.org/wiki/Special:FilePath/Patio%20by%20La%20Pasha.jpg,https://www.patiobylapasha.com/,Houston,29.730507,-95.480716
+Q135312270,restaurant,The Tent,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Tent%20%2865654%29.jpg,https://thetenthtx.com/,Houston,29.724102,-95.519128
+Q5651022,restaurant,Hansen's Sno-Bliz,http://commons.wikimedia.org/wiki/Special:FilePath/HansensSnoOpenJuly07A.jpg,http://www.snobliz.com/,New Orleans,29.9169,-90.1059
+Q5683668,restaurant,Haven Brothers Diner,http://commons.wikimedia.org/wiki/Special:FilePath/Haven%20Brothers%20Providence%20RI.jpg,,Rhode Island,41.824,-71.4125
+Q5692816,restaurant,Heartland Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Heartland%20Cafe.tif,,,42.0093,-87.6665
+Q5943456,restaurant,Hungry Bear Restaurant,http://commons.wikimedia.org/wiki/Special:FilePath/Disneyland-HungryBear%20sign.jpg,https://disneyland.disney.go.com/dining/disneyland/hungry-bear-restaurant/,Anaheim,33.815394,-117.926391
+Q6003635,restaurant,Imbrie Farm,http://commons.wikimedia.org/wiki/Special:FilePath/Imbrie%20Farm%20octagonal%20barn%20-%20Hillsboro%20Oregon.jpg,https://www.mcmenamins.com/cornelius-pass-roadhouse,Hillsboro,45.54902,-122.90097
+Q6097298,restaurant,Ivan Ramen,http://commons.wikimedia.org/wiki/Special:FilePath/IvanRamen.jpg,https://www.ivanramen.com/,Manhattan,40.72055,-73.98454
+Q6112071,restaurant,Jack Dempsey's Broadway Restaurant,http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Dempsey%27s%20Broadway%20Restaurant.jpg,,New York City,40.7611,-73.9845
+Q6114738,restaurant,Jack Ranch Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20ranch%20cafe1.jpg,,,35.72333333,-120.29694444
+Q6176594,restaurant,Jekyll & Hyde Club,http://commons.wikimedia.org/wiki/Special:FilePath/Jekyll%20Hyde%20pub.JPG,,Manhattan,40.7328,-74.003
+Q6208240,restaurant,Joe's Shanghai,http://commons.wikimedia.org/wiki/Special:FilePath/Soup%20dumplings.jpg,http://www.joeshanghairestaurants.com/,Manhattan,40.715688,-73.996656
+Q6217290,restaurant,John's Grill,http://commons.wikimedia.org/wiki/Special:FilePath/John%27s%20Grill%20exterior%202.jpg,,San Francisco,37.7854,-122.407
+Q6258989,restaurant,John Steinbeck House,http://commons.wikimedia.org/wiki/Special:FilePath/SteinbeckHouse.jpg,http://steinbeckhouse.com/,Salinas,36.676667,-121.658056
+Q6309626,restaurant,Julius,http://commons.wikimedia.org/wiki/Special:FilePath/Julius-bar.jpg,http://www.juliusbarnyc.com,Manhattan,40.7345,-74.0016
+Q6389685,restaurant,Kennedy School,http://commons.wikimedia.org/wiki/Special:FilePath/Kennedy%20School%20-%20Portland%20Oregon.jpg,http://www.mcmenamins.com,Portland,45.5646,-122.63
+Q6390945,restaurant,Kenny & Zuke's Delicatessen,http://commons.wikimedia.org/wiki/Special:FilePath/Kenny%20Zukes%20storefront.jpg,http://www.kennyandzukes.com/,,45.522301,-122.682333
+Q6392402,restaurant,Kentucky Theater,http://commons.wikimedia.org/wiki/Special:FilePath/Front%20facade%2C%20looking%20east%20-%20Kentucky%20Theater%20%28Commercial%20Building%29%2C%20649-651%20South%20Fourth%20Street%2C%20Louisville%2C%20Jefferson%20County%2C%20KY%20HABS%20KY%2C56-LOUVI%2C32-4.tif,https://www.theatersquaremarketplace.com/,Louisville,38.2472,-85.7582
+Q6410862,restaurant,King's Carriage House,http://commons.wikimedia.org/wiki/Special:FilePath/King%27s-Carriage-House.jpg,http://www.kingscarriagehouse.com/,Manhattan,40.7756,-73.954
+Q6415895,restaurant,Kirkwood Inn & Saloon,http://commons.wikimedia.org/wiki/Special:FilePath/Historic%20American%20Buildings%20Survey%20San%20Francisco%20Chronicle%20Library%20Re-photo-%20June%201940%20VIEW%20OF%20FRONT%20-%20Kirkwood%20Inn%20and%20Round%20Top%20Post%20Office%2C%20U.S.%20Highway%2088%2C%20Kirkwood%2C%20Alpine%20HABS%20CAL%2C3-ROUNT%2C1-1.tif,,California,38.7027,-120.072
+Q6428315,restaurant,Komi,http://commons.wikimedia.org/wiki/Special:FilePath/Komi%20-%20Washington%2C%20D.C..JPG,http://komirestaurant.com/,"Washington, D.C.",38.910111111,-77.038361111
+Q6433415,restaurant,Kossar's Bialys,http://commons.wikimedia.org/wiki/Special:FilePath/Kossar%27s%20Bialys%20storefront.jpg,http://www.kossars.com,Manhattan,40.7164,-73.9888
+Q6455696,restaurant,L'Espalier,http://commons.wikimedia.org/wiki/Special:FilePath/L%27Espalier%2C%20Boston%20MA.jpg,http://www.lespalier.com/,Massachusetts,42.348333333,-71.080833333
+Q6460778,restaurant,LaMar's Donuts,http://commons.wikimedia.org/wiki/Special:FilePath/LaMar%27s%20Donuts.JPG,http://www.lamars.com,Denver,,
+Q6463653,restaurant,La Mallorquina,http://commons.wikimedia.org/wiki/Special:FilePath/La%20Mallorquina-fundada%201848%20Calle%20San%20Justo.jpg,,San Juan,18.465309893,-66.115264737
+Q7589025,restaurant,St. Johns Signal Tower Gas Station,http://commons.wikimedia.org/wiki/Special:FilePath/St%20Johns%20Signal%20Tower%20Gas%20Station%20-%20Portland%20Oregon.jpg,,Oregon,45.589167,-122.75225
+Q17041119,restaurant,Old Town Pizza,http://commons.wikimedia.org/wiki/Special:FilePath/Portland%20July%202017%2021%20%28Old%20Town%20Pizza%20%26%20Brewing%29.jpg,http://www.oldtownpizza.com/,Portland,45.52443,-122.67302
+Q20979290,restaurant,Joe's Pizza,http://commons.wikimedia.org/wiki/Special:FilePath/Joe%27s%20Pizza%202022%20jeh.jpg,http://www.joespizzanyc.com/,New York City,40.730597,-74.002098
+Q20979294,restaurant,Juliana's Pizza,http://commons.wikimedia.org/wiki/Special:FilePath/Juliana%27s%20Pizza%2C%2019%20Old%20Fulton%20Street%2C%20Brooklyn%20NY.jpg,http://www.julianaspizza.com/,New York City,40.70275,-73.99343
+Q20979298,restaurant,Kesté,http://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20of%20Kest%C3%A9%20Pizza%20%26%20Vino.jpg,http://www.kestepizzeria.com/home,Manhattan,40.731531,-74.002967
+Q21016270,restaurant,Tony's Pizza Napoletana,http://commons.wikimedia.org/wiki/Special:FilePath/Tonysneon.jpg,http://tonyspizzanapoletana.com/,San Francisco,37.8,-122.408888888
+Q104521241,restaurant,Apizza Scholls,http://commons.wikimedia.org/wiki/Special:FilePath/Southeast%20Portland%2C%20Oregon%20%28January%202021%29%20049.jpg,http://apizzascholls.com,,45.5121,-122.6131
+Q108131397,restaurant,Scarr's Pizza,http://commons.wikimedia.org/wiki/Special:FilePath/Scarr%27s%20Pizza.jpg,https://www.scarrspizza.com/,Manhattan,40.715377639,-73.991549476
+Q108501816,restaurant,New Park Pizza,http://commons.wikimedia.org/wiki/Special:FilePath/New%20Park%20Pizza%202021.jpg,,,40.66275,-73.840361111
+Q108782163,restaurant,Lovely's Fifty Fifty,http://commons.wikimedia.org/wiki/Special:FilePath/Portland%2C%20Oregon%20in%20May%202025%20-%20164.jpg,,,45.552888888,-122.675833333
+Q110517338,restaurant,Baby Doll Pizza,http://commons.wikimedia.org/wiki/Special:FilePath/Baby%20Doll%20Pizza%204.jpg,https://babydollpizza.com,,45.5194,-122.6365
+Q110995758,restaurant,Greek's Pizzeria,http://commons.wikimedia.org/wiki/Special:FilePath/Greek%27s%20Pizzeria%20-%20Zionsville%20-%20May%202018%20-%20INvets%2003.jpg,https://eat.greekspizzeria.com/Store?id=GP1001,Zionsville,39.951608911,-86.262291071
+Q112797054,restaurant,Donohue's Steak House,http://commons.wikimedia.org/wiki/Special:FilePath/Donohue%27s%20Steak%20House%20HDR%202022%20jeh.jpg,,New York City,40.765430555,-73.965561111
+Q114814233,restaurant,Santo Market,http://commons.wikimedia.org/wiki/Special:FilePath/Santo%20Market%20Japanese%20Groceries%20%26%20Delicatessen%20in%20San%20Jose%20-japantown%20%2819367065109%29.jpg,https://santomarket.com/,San Jose,37.351666666,-121.895277777
+Q114996849,restaurant,Main Street Deli,http://commons.wikimedia.org/wiki/Special:FilePath/Main%20Street%20Deli.jpg,https://mainstreetdelifindlay.com/,Findlay,,
+Q114997948,restaurant,Joey Fratello's Pizzeria,http://commons.wikimedia.org/wiki/Special:FilePath/Joey%20Fratello%27s%20Pizzeria.jpg,,Findlay,,
+Q115149134,restaurant,Post Alley Pizza,http://commons.wikimedia.org/wiki/Special:FilePath/Seattle%20%28July%202023%29%20-%20210%20%28cropped%29.jpg,,,47.6057,-122.3381
+Q122209022,restaurant,Pagliai's,http://commons.wikimedia.org/wiki/Special:FilePath/Pagliai%27s%20Pizza.jpg,https://www.pagliaisbg.com/,Bowling Green,,
+Q124249775,restaurant,The Peddler Steakhouse,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Peddler%20Steakhouse%20-%20October%202023%20-%20Sarah%20Stierch%2002.jpg,https://peddlergatlinburg.com/,Gatlinburg,35.707845385,-83.523220568
+Q130493703,restaurant,Dürty Nelly's Pub - Deli,http://commons.wikimedia.org/wiki/Special:FilePath/Eli%20Cook%20with%20band%20D%C3%BCrty%20Nelly%27s%20Pub%20-%20Deli%202200%20Jefferson%20Park%20Ave%20Charlottesville%20VA%20December%202022%2004.jpg,https://www.durtynellyscharlottesville.com/,,38.024891,-78.514839
+Q131672977,restaurant,Varsity Pizza,http://commons.wikimedia.org/wiki/Special:FilePath/Varsity%20Pizza%2C%20Marshall%20street%2C%20Syracuse%20%28football%20opponent%20banners%20%26%20interior%29.jpg,https://varsitypizzasyracuse.com/,Syracuse,43.0415,-76.13683
+Q131702902,restaurant,Porfido's Market & Deli,http://commons.wikimedia.org/wiki/Special:FilePath/Porfido%27s%20Deli%20Main%20Street%20downtown%20Littleton%20NH%202013.jpg,,,44.306956,-71.773375
+Q132509563,restaurant,Connors Steak & Seafood,http://commons.wikimedia.org/wiki/Special:FilePath/Connors%20Steak%20%26%20Seafood%20at%20Market%20Square%2C%20Tallahassee%2C%20Florida.jpg,https://www.connorsrestaurant.com/,,,
+Q133281241,restaurant,Cairo Depot,http://commons.wikimedia.org/wiki/Special:FilePath/Commercial%20buildings%20on%20South%20Broad%20Street%2C%20Cairo%2C%20GA%2C%20US.jpg,,Cairo,30.877127566,-84.208558651
+Q5159601,restaurant,Coney Island Hot Dog Stand,http://commons.wikimedia.org/wiki/Special:FilePath/Coney%20Island%202007.JPG,,Park County,39.4083,-105.494
+Q7761921,restaurant,The Ryland Inn,http://commons.wikimedia.org/wiki/Special:FilePath/115%20Old%20Highway%2028%2C%20Whitehouse%2C%20NJ.jpg,,Hunterdon County,40.618,-74.742
+Q7762125,restaurant,The Salt Lick,http://commons.wikimedia.org/wiki/Special:FilePath/Saltlickpit.jpg,https://www.saltlickbbq.com/,Texas,30.1317,-98.0132
+Q7766549,restaurant,The Stinking Rose,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Stinking%20Rose%20SF%20front.JPG,http://thestinkingrose.com/,San Francisco,34.06666667,-118.37666667
+Q7769759,restaurant,The Towers,http://commons.wikimedia.org/wiki/Special:FilePath/Narragansett%20Towers%20and%20casino%20postcard.jpg,,Narragansett,41.430556,-71.456111
+Q7770212,restaurant,The Trident,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Trident%20in%20Sausalito.jpg,,Sausalito,37.8536,-122.479
+Q7773693,restaurant,The Water Club,http://commons.wikimedia.org/wiki/Special:FilePath/Water%20Club.jpg,http://www.thewaterclub.com/,Manhattan,40.7404,-73.9724
+Q7814320,restaurant,Toll House Inn,http://commons.wikimedia.org/wiki/Special:FilePath/WhitmanMA%20TollHouseSign.jpg,,Whitman,42.0709,-70.9482
+Q7814945,restaurant,Tom Bergin's,http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Bergin%27s%2C%20Faifax%2C%20Los%20Angeles%2C%20CA.JPG,,,34.06003,-118.36263
+Q7820969,restaurant,Tonga Room,http://commons.wikimedia.org/wiki/Special:FilePath/Tonga%20Room%20window%20display.jpg,,San Francisco,37.7921,-122.41
+Q7824677,restaurant,Top of the Hill Restaurant & Brewery,http://commons.wikimedia.org/wiki/Special:FilePath/Franklin%20Street%20Chapel%20Hill%20NC.jpg,http://thetopofthehill.com/,Chapel Hill,35.913055555,-79.055416666
+Q7824679,restaurant,Top of the Mark,http://commons.wikimedia.org/wiki/Special:FilePath/Top%20of%20the%20Mark%20%2816683414895%29.jpg,http://www.intercontinentalmarkhopkins.com/top-of-the-mark.aspx,San Francisco,37.7916,-122.41
+Q7824690,restaurant,Top of the Stairs,http://commons.wikimedia.org/wiki/Special:FilePath/Top%20of%20the%20Stairs.jpg,,Virginia,37.2298,-80.4167
+Q7828399,restaurant,Totonno's,http://commons.wikimedia.org/wiki/Special:FilePath/Totonno%27s%20Pizzeria.jpg,http://www.totonnosconeyisland.com,New York,40.5789,-73.9837
+Q7828685,restaurant,Beastro & Barley,http://commons.wikimedia.org/wiki/Special:FilePath/TouchdownTavern.jpg,,Reedsburg,43.5325,-90.009167
+Q7840381,restaurant,Tribeca Grill,http://commons.wikimedia.org/wiki/Special:FilePath/TriGrill%20DSC3017%20SMALLER.jpg,,Manhattan,40.7195,-74.0101
+Q7843465,restaurant,Triple Rock Social Club,http://commons.wikimedia.org/wiki/Special:FilePath/TripleRockSocialClub.jpg,,Cedar-Riverside,44.9668,-93.2471
+Q7854858,restaurant,Turf Club,http://commons.wikimedia.org/wiki/Special:FilePath/Turf%20Club.jpg,,,44.9558,-93.1678
+Q7862894,restaurant,U-Drop Inn,http://commons.wikimedia.org/wiki/Special:FilePath/U-Drop%20Inn.jpg,,Texas,35.226568397,-100.249078067
+Q7881201,restaurant,Umatilla Masonic Lodge Hall,http://commons.wikimedia.org/wiki/Special:FilePath/Masonic%20Lodge%20-%20Echo%20Oregon.jpg,,Echo,45.741944,-119.195278
+Q7881256,restaurant,Umberto's Clam House,http://commons.wikimedia.org/wiki/Special:FilePath/Umbertos%20Clam%20House%20and%20Il%20Fornaio%20%2812669747164%29.jpg,,Manhattan,40.7184,-73.9977
+Q7885655,restaurant,Union Depot,http://commons.wikimedia.org/wiki/Special:FilePath/LansingUnionDepot.JPG,,Lansing,42.7344,-84.543
+Q7886046,restaurant,Union Square Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Union-square-cafe1.jpg,http://unionsquarecafe.com/,Manhattan,40.73679,-73.99106
+Q7918382,restaurant,Veggie Galaxy,http://commons.wikimedia.org/wiki/Special:FilePath/Veggie%20Galaxy%20%286182496049%29.jpg,http://www.veggiegalaxy.com/,Massachusetts,42.363424,-71.101296
+Q7919737,restaurant,Venetian Theatre,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Venetian%20Theatre%20and%20Bistro%20in%202015.jpg,http://www.ci.hillsboro.or.us,Hillsboro,45.5228,-122.987
+Q7920014,restaurant,Veniero's,http://commons.wikimedia.org/wiki/Special:FilePath/Venieros%20Sign%20and%20Storefront.jpg,http://www.venierospastry.com/,Manhattan,40.7294,-73.9845
+Q7923183,restaurant,Veselka,http://commons.wikimedia.org/wiki/Special:FilePath/Veselka%20%281%29.jpg,http://veselka.com,Manhattan,40.729,-73.9871
+Q7923521,restaurant,Vesuvio Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Vesuvio%20Cafe%2C%20San%20Francisco%20%282013%29.JPG,http://www.vesuvio.com,San Francisco,37.797535,-122.406407
+Q7934164,restaurant,Virginia Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Virginia%20Cafe%2C%20Portland%2C%20Oregon%202012.JPG,http://www.virginiacafepdx.com/,Portland,45.51892,-122.68246
+Q7962595,restaurant,Wall Drug,http://commons.wikimedia.org/wiki/Special:FilePath/Wall%20Drug.JPG,https://www.walldrug.com/,Wall,43.993231,-102.241795
+Q7964102,restaurant,Walter's Hot Dog Stand,http://commons.wikimedia.org/wiki/Special:FilePath/WaltersHotDog2005.JPG,,New York,40.9431,-73.7469
+Q7972209,restaurant,Washington Square Bar and Grill,http://commons.wikimedia.org/wiki/Special:FilePath/Washington%20Square%20Bar%20and%20Grill.jpg,,San Francisco,37.8004,-122.411
+Q7979573,restaurant,Weenie Beenie,http://commons.wikimedia.org/wiki/Special:FilePath/WeenieBeenie.jpg,,,,
+Q7979817,restaurant,Weidmann's Restaurant,http://commons.wikimedia.org/wiki/Special:FilePath/Weidmanns.JPG,,Mississippi,32.363,-88.699
+Q7994832,restaurant,White Horse Tavern,http://commons.wikimedia.org/wiki/Special:FilePath/White%20Horse%20Tavern%20in%20Newport%20RI.jpg,https://whitehorsenewport.com/,Rhode Island,41.491111111,-71.313055555
+Q7997481,restaurant,Whoa Nellie Deli,http://commons.wikimedia.org/wiki/Special:FilePath/Whoa%20Nellie%20Deli%201.JPG,,California,37.9473,-119.113
+Q8030163,restaurant,Wolfie Cohen's Rascal House,http://commons.wikimedia.org/wiki/Special:FilePath/Rascalcornedbeef.jpg,,Miami Beach,25.9353,-80.1218
+Q8033075,restaurant,Woodman's of Essex,http://commons.wikimedia.org/wiki/Special:FilePath/Woodmans%20of%20essex.jpg,http://woodmans.com,Massachusetts,42.6303,-70.7746
+Q8048743,restaurant,Yankee Doodle Coffee Shop,http://commons.wikimedia.org/wiki/Special:FilePath/Yankee%20Doodle%20in%20New%20Haven%20CT.jpg,,Connecticut,41.3115,-72.9309
+Q8050764,restaurant,Ye Olde Tavern,http://commons.wikimedia.org/wiki/Special:FilePath/TavernfromtheNorth.JPG,http://www.yeoldetavern.net/,Manchester,43.1782,-73.0513
+Q8054887,restaurant,Yonah Schimmel's Knish Bakery,http://commons.wikimedia.org/wiki/Special:FilePath/Yonah%20Shimmel%20Knish%20Bakery.jpg,http://www.knishery.com/main.htm,Manhattan,40.7231,-73.9901
+Q8064057,restaurant,Zack's Hotdogs,http://commons.wikimedia.org/wiki/Special:FilePath/Zacks.jpg,,North Carolina,36.094,-79.438
+Q8072550,restaurant,Zion Nature Center-Zion Inn,http://commons.wikimedia.org/wiki/Special:FilePath/Zion%20Nature%20Center%20renovated.jpg,,Washington County,37.205342,-112.982459
+Q8075291,restaurant,Zuni Café,http://commons.wikimedia.org/wiki/Special:FilePath/Zuni%20Caf%C3%A9%20%282023%29-L1003559.jpg,,San Francisco,37.7737,-122.421
+Q10846129,restaurant,The Halal Guys,http://commons.wikimedia.org/wiki/Special:FilePath/53rd%20and%206th.jpg,https://thehalalguys.com/,Manhattan,40.7618,-73.9793
+Q11703451,restaurant,S & S Sandwich Shop,http://commons.wikimedia.org/wiki/Special:FilePath/S%20%26%20S%20Sandwich%20Shop%202012-10-06%2012-47-40.jpg,,Miami,25.792954,-80.190681
+Q11974282,restaurant,"Hard Rock Café, Chicago",http://commons.wikimedia.org/wiki/Special:FilePath/Hard%20Rock%20Cafe.jpg,https://www.hardrockcafe.com/location/chicago/,,,
+Q11974285,restaurant,"Hard Rock Café, Nashville",http://commons.wikimedia.org/wiki/Special:FilePath/Hard%20Rock%20Cafe%20Nashville%20%28Southeast%20face%29%201.JPG,https://www.hardrockcafe.com/location/nashville/,Nashville,,
+Q11974286,restaurant,"Hard Rock Café, Orlando",http://commons.wikimedia.org/wiki/Special:FilePath/HardRockCafeOrlando.jpg,https://www.hardrockcafe.com/location/orlando/,,28.473753164,-81.467490825
+Q68753857,restaurant,Pluto’s Dog House,http://commons.wikimedia.org/wiki/Special:FilePath/Toontown%20%2828727551021%29.jpg,https://disneyland.disney.go.com/dining/disneyland/plutos-dog-house/,Anaheim,33.815555,-117.918695
+Q99522743,restaurant,Muir Woods National Monument Administration-Concession Building,http://commons.wikimedia.org/wiki/Special:FilePath/Muir%20Woods%20National%20Monument%208.jpg,https://muirwoodstradingcompany.com/,Marin County,37.893399,-122.572825
+Q99889767,restaurant,South Falls Lodge,http://commons.wikimedia.org/wiki/Special:FilePath/Silver%20Falls%20Lodge%20west%20elevation%20-%20Oregon.jpg,,Marion County,44.878544444,-122.656538888
+Q105069429,restaurant,Trail Ridge Store & Café,http://commons.wikimedia.org/wiki/Special:FilePath/Alpine%20Visitor%20Center%20-Rocky%20Mountain%20National%20Park%2C%20Colorado%207.jpg,,Larimer County,40.441376949,-105.753729964
+Q132185755,restaurant,Dog-Et-Al,http://commons.wikimedia.org/wiki/Special:FilePath/Dog-Et-Al%20at%20Bannerman%20Crossings%2C%20Bradfordville%2C%20Florida.jpg,https://dogetalusa.com/,Leon County,30.563039337,-84.220314689
+Q1330910,restaurant,Popeyes,http://commons.wikimedia.org/wiki/Special:FilePath/Popeyes%20Louisiana%20Kitchen%20%2851195358373%29.jpg,https://www.popeyes.com/,,,
+Q4726773,restaurant,Alinea,http://commons.wikimedia.org/wiki/Special:FilePath/Alinea%20-%20Front.jpg,http://www.alinea-restaurant.com/,Chicago,41.9134,-87.6482
+Q7132349,restaurant,Papa Murphy's,http://commons.wikimedia.org/wiki/Special:FilePath/Papa%20Murphy%27s%20in%20Gillette%2C%20Wyoming.jpg,http://www.papamurphys.com/,,,
+Q7381088,restaurant,Russ & Daughters,http://commons.wikimedia.org/wiki/Special:FilePath/Russ%20and%20Daughters.png,,Manhattan,40.722616,-73.988296
+Q7424960,restaurant,Sasabune,http://commons.wikimedia.org/wiki/Special:FilePath/Sasabune%20NYC.jpg,https://sasabuneny.wordpress.com/,Manhattan,40.7684,-73.9551
+Q7648923,restaurant,Sushi Seki,http://commons.wikimedia.org/wiki/Special:FilePath/Sushi%20Seki.jpg,https://sushiseki.com/,Manhattan,40.762,-73.9605
+Q7648933,restaurant,Sushi of Gari,http://commons.wikimedia.org/wiki/Special:FilePath/Sushi%20of%20Gari.jpg,https://www.sushiofgari.com/,Manhattan,40.7714,-73.9527
+Q12061456,restaurant,Mammy's Cupboard,http://commons.wikimedia.org/wiki/Special:FilePath/MammyCupboard4Sept2008Front.jpg,,,31.4781,-91.3714
+Q13581020,restaurant,Harland Sanders Café and Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Harland%20Sanders%20Cafe%20in%20Corbin%2C%20Kentucky%20%2825552587963%29.png,,Laurel County,36.959722,-84.094167
+Q13600398,restaurant,Bowlin's Old Crater Trading Post,http://commons.wikimedia.org/wiki/Special:FilePath/Bowlins%20Old%20Crater%20Trading%20Post.jpg,https://www.bowlintc.com/,,35.077806,-106.568306
+Q14681350,restaurant,Opal's Steak House,http://commons.wikimedia.org/wiki/Special:FilePath/Opal%27s%20Steak%20House.JPG,,Arkansas,34.5297,-93.0489
+Q14683418,restaurant,Moss Beach Distillery,http://commons.wikimedia.org/wiki/Special:FilePath/Moss%20Beach%20Distillery%2008-15-2009.jpg,http://www.mossbeachdistillery.com/,California,37.5178,-122.513
+Q14685759,restaurant,Reynold's Candy Company Building,http://commons.wikimedia.org/wiki/Special:FilePath/Reynolds%20Candy.JPG,,Delaware,39.7428,-75.55
+Q14685857,restaurant,Elks Club Building,http://commons.wikimedia.org/wiki/Special:FilePath/Elks%20Club%20Building%2C%20Jacksonville%2C%20FL%2C%20US.jpg,,Q16568,30.3281,-81.6589
+Q14686685,restaurant,Junior's Grill,http://commons.wikimedia.org/wiki/Special:FilePath/Junior%27s%20Grill%2C%20Georgia%20Tech%2C%20Atlanta%20GA.jpg,,Georgia,33.7726,-84.3945
+Q14687484,restaurant,Downey Building,http://commons.wikimedia.org/wiki/Special:FilePath/Downey%20Building%2C%20Atlanta.jpg,,Illinois,40.2603,-89.2314
+Q14687892,restaurant,Mirage Tavern,http://commons.wikimedia.org/wiki/Special:FilePath/Modern-Day%20Brehon-Mirageo.png,,Illinois,41.8956,-87.6341
+Q14704806,restaurant,Bassett Lodge and Range Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Bassett%20Lodge%20and%20Range%20Cafe%20from%20SE.JPG,,Bassett,42.5853,-99.5378
+Q14705189,restaurant,Landrum's Hamburger System No. 1,http://commons.wikimedia.org/wiki/Special:FilePath/Landrum%27s%20Hamburger%20System%20No.%201.JPG,,Nevada,39.5117,-119.805
+Q14706188,restaurant,Blue Hill Restaurant,http://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Hill%20%28restaurant%29.jpg,http://www.bluehillnyc.com,Manhattan,40.732,-73.9996
+Q14706883,restaurant,Manganaros,http://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20of%20Manganaro%27s%20Grosseria%20Italiana.jpg,,New York,40.7555,-73.9945
+Q14706909,restaurant,Mars 2112,http://commons.wikimedia.org/wiki/Special:FilePath/Mars%202112%20jeh.JPG,http://www.mars2112.com/,Manhattan,40.76194444,-73.98405556
+Q14707831,restaurant,Zabar's,http://commons.wikimedia.org/wiki/Special:FilePath/Zabars-2016-front-wide.jpg,http://www.zabars.com/,,40.78483,-73.97966
+Q14708943,restaurant,Jake's Famous Crawfish,http://commons.wikimedia.org/wiki/Special:FilePath/Whitney%20and%20Gray%20Building%20-%20Portland%20Oregon.jpg,https://www.jakesfamous.com/,Portland,45.5225,-122.683
+Q14711947,restaurant,29 Diner,http://commons.wikimedia.org/wiki/Special:FilePath/29%20Diner%20Exterior.jpg,,Fairfax,38.8581,-77.3086
+Q14712717,restaurant,Little Grill Collective,http://commons.wikimedia.org/wiki/Special:FilePath/Little%20Grill%20Collective%20621%20North%20Main%20Street%20Harrisonburg%20VA%20June%202008.jpg,http://littlegrillcollective.com/,Virginia,38.4561,-78.8643
+Q14713602,restaurant,Breadline Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Omak%2C%20WA%20-%20Breadline%20Cafe%2001.jpg,http://www.breadlinecafe.com,Washington,48.4094,-119.53
+Q14713604,restaurant,Canlis,http://commons.wikimedia.org/wiki/Special:FilePath/Front%20entrance%20to%20Canlis%20Restaurant%2C%20Seattle%2C%20Washington%2C%202012.jpg,https://www.canlis.com,Washington,47.64308,-122.34675
+Q14715437,restaurant,Charlie's Kitchen,http://commons.wikimedia.org/wiki/Special:FilePath/Charliesatnight.jpg,http://www.charlieskitchen.com,Cambridge,42.3725,-71.1215
+Q14715624,restaurant,Jacob Wirth Restaurant,http://commons.wikimedia.org/wiki/Special:FilePath/WirthsBosstore.JPG,,Boston,42.3511,-71.0644
+Q15032096,restaurant,BiCE Ristorante,http://commons.wikimedia.org/wiki/Special:FilePath/BiCE%20Ristorante%20Matchbook.JPG,http://bicenewyork.com/,Manhattan,40.761,-73.9744
+Q15209455,restaurant,Cherry Hut,http://commons.wikimedia.org/wiki/Special:FilePath/Cherry%20Hut.jpg,,Michigan,44.63534,-86.08875
+Q15253396,restaurant,Milk Bottle Grocery,http://commons.wikimedia.org/wiki/Special:FilePath/OK-OKC-NClassen-milkbottlegrocery.JPG,,Oklahoma,35.49416667,-97.53194444
+Q15265231,restaurant,Pamela's Diner,http://commons.wikimedia.org/wiki/Special:FilePath/Pamela%27s%20Diner%20Oakland%202007.jpg,http://www.pamelasdiner.com/,,40.45201,-79.98365
+Q919751,cafe,The Bitter End,http://commons.wikimedia.org/wiki/Special:FilePath/Beast%200114.jpg,http://www.bitterend.com,Manhattan,40.7283,-73.9992
+Q7305267,cafe,Red and Black Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Portland%27s%20remarkable%20Red%20%26%20Black%20Cafe%20%286151401574%29.jpg,http://www.redandblackcafe.com,Oregon,45.5204,-122.653
+Q7458172,cafe,Seward Community Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Seward%20Cafe%20%28Minneapolis%29.jpg,https://www.sewardcafe.com/,Minneapolis,44.962596,-93.241155
+Q7740821,cafe,The Human Bean,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Human%20Bean%20on%20Oak%20Street%20at%2010th%20-%20Hillsboro%2C%20Oregon.JPG,https://www.thehumanbean.com,,,
+Q13511772,cafe,The Gaslight Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Site%20of%20the%20former%20Gaslight%20Cafe.jpg,,Greenwich Village,40.7297,-74.0005
+Q14704654,cafe,Lake McDonald Lodge Coffee Shop,http://commons.wikimedia.org/wiki/Special:FilePath/Lak3e%20McDonald%20Coffee%20Shop%20MT1.jpg,,Flathead County,48.617683,-113.876435
+Q4985436,cafe,Buena Vista Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Buena%20Vista%20Cafe%2C%20exterior%2C%20San%20Francisco%20%28May%202025%29%2003.jpg,http://www.thebuenavista.com/,San Francisco,37.806528,-122.420782
+Q5017146,cafe,Caffe Mediterraneum,http://commons.wikimedia.org/wiki/Special:FilePath/Caffe%20Mediterraneum.JPG,,California,37.8656,-122.258
+Q5017150,cafe,Caffe Reggio,http://commons.wikimedia.org/wiki/Special:FilePath/Caffe%20Reggio%2001.jpg,http://www.cafereggio.com/,Manhattan,40.7303,-74.0003
+Q5017151,cafe,Caffe Trieste,http://commons.wikimedia.org/wiki/Special:FilePath/Caffe%20trieste%20%287793058868%29.jpg,,San Francisco,37.7987,-122.407
+Q5017199,cafe,Caffé Vita Coffee Roasting Company,http://commons.wikimedia.org/wiki/Special:FilePath/Caffe%20Vita.jpg,http://www.caffevita.com,,47.614004,-122.31902
+Q5017216,cafe,Café Allegro,http://commons.wikimedia.org/wiki/Special:FilePath/Caf%C3%A9%20Allegro%20outside.jpg,http://seattleallegro.com/,Washington,47.6585,-122.313
+Q5307746,cafe,Drinkmore Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Drinkmore.night.jpg,http://www.drinkmorecafe.com/,Washington,47.6206,-122.326
+Q5473046,cafe,Forum Cafeteria,http://commons.wikimedia.org/wiki/Special:FilePath/Saxe%20Theater%2C%201914.jpg,http://www.goodfellowsrestaurant.com,Minneapolis,44.9775,-93.2732
+Q6266013,cafe,Johnie's Coffee Shop,http://commons.wikimedia.org/wiki/Special:FilePath/Johnie%20Coffee%20Shop%20Restaurant.jpg,,Los Angeles,34.0633,-118.362
+Q7102558,cafe,Original Pantry Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Original%20Pantry%20Cafe%20Los%20Angeles.jpg,https://www.originalpantryla.com/,Los Angeles,34.046397,-118.26292
+Q7230543,cafe,Port City Java,http://commons.wikimedia.org/wiki/Special:FilePath/Port%20City%20Java%20Interior.jpg,http://www.portcityjava.com,,,
+Q7304105,cafe,Red Emma's,http://commons.wikimedia.org/wiki/Special:FilePath/RedEmmas3.jpg,https://redemmas.org/,Baltimore,39.29890556,-76.614225
+Q28405732,cafe,Jean Cocteau Cinema,http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Cocteau%20Cinema%20-%20panoramio.jpg,https://jeancocteaucinema.com,New Mexico,35.685,-105.946666666
+Q16894326,cafe,London Coffee House,http://commons.wikimedia.org/wiki/Special:FilePath/Breton-William-1830-London-Coffee-House-Philadelphia.jpg,,Philadelphia,39.9495,-75.1422
+Q19876974,cafe,Ceres Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Ceres%20Cafe%20in%20the%20board%20of%20trade.jpg,,Chicago,41.878125,-87.63225
+Q131838275,cafe,7 Brew,http://commons.wikimedia.org/wiki/Special:FilePath/Seven%20Brew%20Coffee%2C%20Niceville%2C%20Florida.jpg,https://7brewus.com/,Arkansas,,
+Q136361477,cafe,Fair Mountain Coffee,http://commons.wikimedia.org/wiki/Special:FilePath/Fair%20Mountain%20Coffee%20Roastery.jpg,https://www.fairmountaincoffee.com/,Atlantic Highlands,40.41044378,-74.03977845
+Q136432510,cafe,Mazajj Organic Coffee,http://commons.wikimedia.org/wiki/Special:FilePath/Mazajj%20Organic%20Coffee.jpg,https://texas.mazajjorganiccoffee.com/,Houston,29.731297,-95.475119
+Q136709048,cafe,Madison Hotel and Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Madison%20Hotel%20West%20Yellowstone%20Montana.jpg,,West Yellowstone,44.65894,-111.10161
+Q136891399,cafe,The Coffee House at West End,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Coffee%20House%20at%20West%20End.jpg,https://www.thecoffeehousehtx.com/,Houston,29.769284,-95.408889
+Q138174051,cafe,Caffvino,http://commons.wikimedia.org/wiki/Special:FilePath/Caffvino%20%28Houston%29%20%2824400%29.jpg,https://caffvino.com/,Houston,29.790109,-95.397256
+Q140310180,cafe,Hillsboro General Store Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/General%20Store%20Cafe%20%285999230907%29.jpg,,New Mexico,32.9198603,-107.5694616
+Q141250786,cafe,Q141250786,http://commons.wikimedia.org/wiki/Special:FilePath/Seattle%2C%20August%202026%20-%20261.jpg,https://candpcoffee.com/,Seattle,47.551736314,-122.386788657
+Q37158,cafe,Starbucks,http://commons.wikimedia.org/wiki/Special:FilePath/Starbuckscenter.jpg,https://www.starbucks.com/,,,
+Q1030917,cafe,Espresso Vivace,http://commons.wikimedia.org/wiki/Special:FilePath/Seattle%20Vivace%202%20Sept%202007%20-%2002.jpg,http://espressovivace.com/,,,
+Q2666365,cafe,Gloria Jean's Coffees,http://commons.wikimedia.org/wiki/Special:FilePath/Gloria%20Jean%27s%20Coffee.JPG,https://www.gloriajeans.com/,,,
+Q7824587,cafe,Top Pot Doughnuts,http://commons.wikimedia.org/wiki/Special:FilePath/Top%20Pot%205th%20Ave%20Seattle%2002.jpg,http://www.toppotdoughnuts.com,,,
+Q18156812,cafe,Philz Coffee,http://commons.wikimedia.org/wiki/Special:FilePath/Philz%20Coffee%20-%2024th-Folsom%20-%20SF%2C%20CA.jpg,http://www.philzcoffee.com/,,,
+Q93398226,cafe,Scout & Co.,http://commons.wikimedia.org/wiki/Special:FilePath/Scout%20%26%20Co%20coffee%20shop%20front%20entrance%20in%20Winooski%2C%20Vermont.jpg,https://scoutvt.com/,,,
+Q115621122,cafe,Chinchilla Café,http://commons.wikimedia.org/wiki/Special:FilePath/Chinchilla%20Caf%C3%A9%20-%20promo%20-%20221203.tif,,Charlottesville,38.031,-78.479
+Q115815878,cafe,Zeitgeist Coffee,http://commons.wikimedia.org/wiki/Special:FilePath/Zeitgeist%20Coffee%2C%20Washington.jpg,,Washington,47.5991,-122.33185
+Q117280308,cafe,Scooter's Coffee,http://commons.wikimedia.org/wiki/Special:FilePath/Scooter%27s%20Coffee%20in%20Plano%2C%20Texas%2001.jpg,https://www.scooterscoffee.com/,,,
+Q117722789,cafe,Bulldog News,http://commons.wikimedia.org/wiki/Special:FilePath/Seattle%20in%20June%202023%20-%20107.jpg,,Seattle,47.658611111,-122.313055555
+Q139796487,cafe,The Coffee Potter,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Coffee%20Potter.jpg,https://thecoffeepotter.com/,Long Valley,,
+Q60753861,cafe,Blacksmith Shop,http://commons.wikimedia.org/wiki/Special:FilePath/Crucial%20Coffee%20Cafe%20%28Old%20Blacksmith%20Shop%29%2C%2026%20Charlotte%20St%2C%20St.%20Augustine%2001.jpg,,St. Augustine,29.89588857,-81.311998656
+Q61740349,cafe,Krispy Kreme,http://commons.wikimedia.org/wiki/Special:FilePath/Krispy%20Kreme%20Doughnuts%20%40%20Excalibur%20Hotel%2C%20Las%20Vegas%20%282596923869%29.jpg,,Las Vegas,36.098837,-115.175078
+Q61758980,cafe,Café Vettro,http://commons.wikimedia.org/wiki/Special:FilePath/DSC33313%2C%20Aria%20Resort%20and%20Casino%2C%20Las%20Vegas%2C%20Nevada%2C%20USA%20%288331549683%29.jpg,,Las Vegas,36.108276,-115.176674
+Q61759147,cafe,ARIA Patisserie,http://commons.wikimedia.org/wiki/Special:FilePath/DSC33317%2C%20Aria%20Resort%20and%20Casino%2C%20Las%20Vegas%2C%20Nevada%2C%20USA%20%288332606894%29.jpg,https://www.aria.com/en/restaurants/aria-patisserie.html,Las Vegas,36.107352,-115.176582
+Q68606671,cafe,Market House,http://commons.wikimedia.org/wiki/Special:FilePath/Main%20Street%20USA%20Market%20House%20Exterior%202014.JPG,https://disneyland.disney.go.com/dining/disneyland/market-house/,Anaheim,33.8109,-117.918844
+Q68806227,cafe,Jolly Holiday Bakery Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/View%20from%20the%20Omnibus%20%2828303198001%29.jpg,https://disneyland.disney.go.com/dining/disneyland/jolly-holiday-bakery-cafe/,Anaheim,33.811599,-117.919366
+Q75380563,cafe,"Fiddler, Fifer & Practical Cafe",http://commons.wikimedia.org/wiki/Special:FilePath/Fiddler%2C%20Fifer%2C%20and%20Practical%20Cafe.jpg,https://disneyland.disney.go.com/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/,Anaheim,33.807947,-117.919354
+Q75683454,cafe,Pacific Wharf Café,http://commons.wikimedia.org/wiki/Special:FilePath/Christmas%20at%20Pacific%20Wharf%20%2828298985675%29.jpg,https://disneyland.disney.go.com/dining/disney-california-adventure/pacific-wharf-cafe/,Anaheim,33.8059,-117.920097
+Q85851957,cafe,Specs' Twelve Adler Museum Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Specs%20Twelve%20Adler%20Museum%20Cafe%20%28August%202020%29%20-1%29.jpg,,,37.797658055,-122.405993888
+Q90360840,cafe,Dawson Saloon,http://commons.wikimedia.org/wiki/Special:FilePath/Stephenville%20August%202017%2019%20%28Greer%27s%20Ranch%20Cafe%29.jpg,,Stephenville,32.219577,-98.20223
+Q93932210,cafe,Breads On Oak,http://commons.wikimedia.org/wiki/Special:FilePath/Breads%20on%20Oak%20New%20Orleans%20Sept%202018%20Exterior.jpg,https://breadsonoak.com/,New Orleans,29.95104,-90.134927
+Q102368861,cafe,Pied Cow Coffeehouse,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Pied%20Cow%2C%20Belmont%2C%20Portland%2C%20Oregon.JPG,,,45.51636,-122.63138
+Q104156006,cafe,Southeast Grind,http://commons.wikimedia.org/wiki/Special:FilePath/Southeast%20Grind%2C%20Portland%2C%20Oregon%20-%2001.jpg,,,45.501,-122.6524
+Q104413480,cafe,Bipartisan Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Bipartisan%20Cafe%2C%20Portland%2C%20Oregon%20%282013%29%20-%202.jpg,https://bipartisancafe.com,Portland,45.5193,-122.5823
+Q107129387,cafe,Good Seed Coffee Roasters,http://commons.wikimedia.org/wiki/Special:FilePath/Good%20Seed%20Coffee%20Roasters%20entrance.jpg,,,34.5961871,-120.1414914
+Q107366473,cafe,Spella Caffè,http://commons.wikimedia.org/wiki/Special:FilePath/Portland%2C%20Oregon%20%28August%2016%2C%202022%29%20-%20137.jpg,,,45.51975,-122.678555555
+Q107985196,cafe,Serra Doce,http://commons.wikimedia.org/wiki/Special:FilePath/Serra%20Doce%20coffee%20shop%20in%20Summit%2C%20NJ.jpg,https://www.serrasummit.com/,Summit,40.71703,-74.35676
+Q109051044,cafe,The Lodge,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Lodge%20-%202021-10-17%20-%20Sarah%20Stierch%2005.jpg,https://www.thelodgereno.com/,Reno,39.372071299,-119.845110658
+Q109772974,cafe,Think Coffee · 123 4th Ave,http://commons.wikimedia.org/wiki/Special:FilePath/Think%20Coffee%20%C2%B7%20123%204th%20Ave.jpg,,,40.733063,-73.989688
+Q111398756,cafe,Starbucks Reserve Roastery,http://commons.wikimedia.org/wiki/Special:FilePath/Starbucks%20Reserve%20Roastery%20interior%2003.jpg,,Seattle,47.614027777,-122.328194444
+Q111824164,cafe,Salt Creek Café,http://commons.wikimedia.org/wiki/Special:FilePath/Salt%20Creek%20Cafe%27.jpg,https://saltcreekcafe.com/,,,
+Q113801328,cafe,Taylor Books,http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Books%20226%20Capitol%20Street%20downtown%20Charleston%20WV%20July%202022.jpg,https://www.taylorbooks.com/,,38.350986,-81.6329345
+Q114615434,cafe,Cedars House,http://commons.wikimedia.org/wiki/Special:FilePath/Cedars%20House%20Philadelphia.jpg,,Philadelphia,40.08343,-75.23287
+Q115395796,cafe,We Serve. Coffee,http://commons.wikimedia.org/wiki/Special:FilePath/We%20Serve%20Coffee.jpg,https://weservecoffee.org/,Findlay,,
+Q115596669,cafe,Cherry Street Coffee House,http://commons.wikimedia.org/wiki/Special:FilePath/Seattle%2C%20Washington%20-%20November%202022%20-%20116.jpg,,Washington,,
+Q115812588,cafe,Vennture Brew Company,http://commons.wikimedia.org/wiki/Special:FilePath/Vennture%20Brew%20Company.jpg,,,43.0605,-87.982611111
+Q116671479,cafe,Tatte Bakery & Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Tatte%20Bakery%2C%20Beacon%20Hill.jpg,https://tattebakery.com/,,,
+Q118570259,cafe,Wunderground Coffee,http://commons.wikimedia.org/wiki/Special:FilePath/Seattle%2C%20WA%2C%202023%20-%2007.jpg,,,47.614,-122.3176
+Q123012449,cafe,The Interval at Long Now,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Interval%20at%20Long%20Now%20%2814988044799%29.jpg,,San Francisco,37.8067715,-122.4321258
+Q125064593,cafe,1215 Wine Bar & Coffee Lab,http://commons.wikimedia.org/wiki/Special:FilePath/Upload%20%288050588051%29.jpg,https://www.1215vine.com/,Cincinnati,39.1087398,-84.5151124
+Q125929035,cafe,Amy's Bakery Arts Cafe,http://commons.wikimedia.org/wiki/Special:FilePath/Solar%20eclipse%20viewing%20Amy%27s%20Bakery%20Arts%20Cafe%20113%20Main%20Street%20downtown%20Brattleboro%20VT%208%20April%202024%2002.jpg,,,42.8524988,-72.557836
+Q126598367,cafe,The Purple Fiddle,http://commons.wikimedia.org/wiki/Special:FilePath/Purple%20Fiddle%20front.jpg,https://purplefiddle.com/,,39.1482899,-79.4990824
+Q126912889,cafe,Rapunzel's Coffee and Books,http://commons.wikimedia.org/wiki/Special:FilePath/Rapunzel%27s%20Coffee%20%26%20Books%20Lovingston%20VA%20February%202009.jpg,https://www.rapunzelscoffeeandbooks.org/,,37.76451,-78.86989
+Q126961235,cafe,Mocha Joe's Café,http://commons.wikimedia.org/wiki/Special:FilePath/Mocha%20Joe%27s%20Caf%C3%A9%2082%20Main%20Street%20downtown%20Brattleboro%20VT%20September%202023.jpg,https://mochajoes.com/,,42.85199,-72.55799
+Q130295496,cafe,Dirt Cowboy Café,http://commons.wikimedia.org/wiki/Special:FilePath/Dirt%20Cowboy%20Cafe%207%20South%20Main%20Street%20downtown%20Hanover%20NH%20July%202023.jpg,https://dirtcowboycafe.com/,,43.696011,-72.289749
+Q130331689,cafe,Flat Iron Cooperative,http://commons.wikimedia.org/wiki/Special:FilePath/Flat%20Iron%20Cooperative%2051%20Square%20Bellows%20Falls%20VT%20July%202023.jpg,https://flatiron.coop/,,43.13348,-72.44379
+Q131341138,cafe,Mudhouse Coffee Roasters,http://commons.wikimedia.org/wiki/Special:FilePath/Mudhouse%20Coffee%20Roasters%20Downtown%20Mall%20Charlottesville%20VA%20June%202008.jpg,https://mudhouse.com/,,38.03117,-78.48871
+Q131387263,cafe,Drip Beverage Lounge,http://commons.wikimedia.org/wiki/Special:FilePath/Drip%20Beverage%20Lounge%202024%20jeh.jpg,https://www.dripcafebk.com/,Kings County,40.650268555,-73.952660061
+Q131720527,cafe,Cafe Kubal,http://commons.wikimedia.org/wiki/Special:FilePath/Cafe%20Kubal%20food%20truck%20at%20the%20Syracuse%20Jazz%20Fest.jpg,,Syracuse,,
+Q131908582,cafe,RedEye Coffee,http://commons.wikimedia.org/wiki/Special:FilePath/RedEye%20Coffee%20on%20Capital%20Circle%20NE%2C%20Tallahassee%2C%20Florida.jpg,https://redeyecoffee.com/,Florida,,
+Q132195221,cafe,Lucky Goat Coffee Co.,http://commons.wikimedia.org/wiki/Special:FilePath/Lucky%20Goat%20Coffee%20Co.%20on%20Capital%20Circle%20NE%2C%20Tallahassee%2C%20Florida.jpg,https://luckygoatcoffee.com/,,,
+Q133852615,cafe,Zina's Blue Corn Café,http://commons.wikimedia.org/wiki/Special:FilePath/Lunch%20in%20Santa%20Fe%20%40%20The%20Blue%20Corn%20Cafe%20%285603769111%29.jpg,,New Mexico,,
+Q135668388,cafe,Antidote Coffee,http://commons.wikimedia.org/wiki/Special:FilePath/Antidote%20Coffee%20%2850724%29.jpg,https://antidotecoffee.shop/,Houston,29.784913,-95.388083
+Q135902322,cafe,Downtown Subscription,http://commons.wikimedia.org/wiki/Special:FilePath/2013%2C%20A%20Quiet%20Coffee%20Shop%20Retreat%20-%20panoramio.jpg,,New Mexico,35.6805697,-105.933543
+Q135917201,cafe,The Ditty Bag,http://commons.wikimedia.org/wiki/Special:FilePath/2025-07-18%20The%20Ditty%20Bag%20Front%20Entrance.jpg,https://www.thedittybag.com,Mystic,,
+Q991069,hotel,"The Brown Palace Hotel and Spa, Autograph Collection",http://commons.wikimedia.org/wiki/Special:FilePath/Brownpalace1.JPG,https://www.brownpalace.com/,Denver,39.74395,-104.98792
+Q1001869,hotel,Douglass House,http://commons.wikimedia.org/wiki/Special:FilePath/2009-0617-DouglassHouse-Houghton.jpg,,Houghton County,47.121944,-88.566944
+Q1029885,hotel,Camp Muir,http://commons.wikimedia.org/wiki/Special:FilePath/Camp%20Muir%20Mt%20Rainier.jpg,,Pierce County,46.835526,-121.732913
+Q1033446,hotel,Cannon Building,http://commons.wikimedia.org/wiki/Special:FilePath/Cannon%20Building%2C%20Troy%2C%20NY.jpg,,Troy,42.731389,-73.692222
+Q1049209,hotel,The Venetian,http://commons.wikimedia.org/wiki/Special:FilePath/11%20The%20Venetian%20Las%20Vegas%20-%20luxury%20hotel%20and%20casino%20in%20Las%20Vegas%20Strip.jpg,http://www.venetian.com/,Nevada,36.12106,-115.17025
+Q1051604,hotel,Four Queens,http://commons.wikimedia.org/wiki/Special:FilePath/4%20queens.JPG,https://www.fourqueens.com/,Nevada,36.17,-115.1438
+Q1055872,hotel,Disneyland Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Disneyland%20Oct%202006%20Disneyland%20Hotel%20DSCN9816.JPG,https://disneyland.disney.go.com/disneyland-hotel/,California,33.8081,-117.927
+Q1064873,hotel,Excalibur Hotel and Casino,http://commons.wikimedia.org/wiki/Special:FilePath/Las%20Vegas%20Excalibur%20P4230727.jpg,http://www.excalibur.com/,Nevada,36.098888888,-115.175555555
+Q1066676,hotel,Plaza Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20-%20Manhattan%20-%20Plaza%20Hotel.jpg,https://www.theplazany.com/,New York City,40.764527777,-73.974444444
+Q1092961,hotel,Circus Circus Las Vegas,http://commons.wikimedia.org/wiki/Special:FilePath/Las%20Vegas%20Circus%20Circus%20P4220697.jpg,https://www.circuscircus.com/,Winchester,36.1368842,-115.1656005
+Q1107391,hotel,Sands Hotel and Casino,http://commons.wikimedia.org/wiki/Special:FilePath/Sands%2095%20%2828276862784%29.jpg,,Nevada,36.121388888,-115.168888888
+Q1116194,hotel,The Leland Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Detroit-Leland%20Hotel%20Detroit%20MI.jpg,,Detroit,42.333689,-83.054261
+Q1123997,hotel,"Waldorf-Astoria Hotel (New York, N.Y.)",http://commons.wikimedia.org/wiki/Special:FilePath/St%20Bartholomews%20and%20The%20Waldorf%20Astoria%20Hotel.jpg,https://www.waldorftowers.nyc/,Manhattan,40.756666666,-73.973888888
+Q1136654,hotel,The D Las Vegas,http://commons.wikimedia.org/wiki/Special:FilePath/The%20D%20Las%20Vegas%20October%202012.jpg,http://www.thed.com/,Nevada,36.1695,-115.1427
+Q1136841,hotel,Fremont Hotel and Casino,http://commons.wikimedia.org/wiki/Special:FilePath/Sam%20Boyd%27s%20Fremont%20Casino%20on%20empty%20night.jpg,http://www.fremontcasino.com/,Nevada,36.1708,-115.143
+Q1140508,hotel,Waldorf Astoria Chicago,http://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Elysian.jpg,,Illinois,41.8997,-87.6275
+Q1147483,hotel,Sahara Las Vegas,http://commons.wikimedia.org/wiki/Special:FilePath/Sahara%20Hotel%20Casino%20Las%20Vegas%20%28entrance%29.jpg,https://www.saharalasvegas.com/,Winchester,36.142239,-115.157753
+Q1150966,hotel,New Frontier Hotel and Casino,http://commons.wikimedia.org/wiki/Special:FilePath/New%20Frontier%20Hotel%20%26%20Casino%20at%20night%202004.jpg,http://www.frontierlv.com/,Las Vegas,36.1294,-115.168
+Q1158001,hotel,Dallas Hilton,http://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Indigo%20Downtown%20Dallas%2001.jpg,,Dallas,32.7817641,-96.79427364
+Q1239042,hotel,Don CeSar,http://commons.wikimedia.org/wiki/Special:FilePath/Don%20Cesar.jpg,https://www.doncesar.com/,St. Pete Beach,27.70933,-82.73707
+Q1262898,hotel,Mar-a-Lago,http://commons.wikimedia.org/wiki/Special:FilePath/Mar-a-Lago%2C%20Palm%20Beach.%20FL%2C%20US.jpg,https://www.maralagoclub.com/,Palm Beach,26.67701,-80.03893
+Q1281171,hotel,Trump Hotel Las Vegas,http://commons.wikimedia.org/wiki/Special:FilePath/Trump%20International%20Hotel%20Las%20Vegas.jpg,http://www.trumplasvegashotel.com,Nevada,36.12908,-115.17265
+Q1304383,hotel,Waldorf Astoria Las Vegas,http://commons.wikimedia.org/wiki/Special:FilePath/Mandarin%20Oriental%20-%20Porte-cochere%20-%202010-03-07.JPG,https://www.hilton.com/en/hotels/laswdwa-waldorf-astoria-las-vegas/,Nevada,36.10608,-115.17429
+Q1309059,hotel,Wynn Las Vegas,http://commons.wikimedia.org/wiki/Special:FilePath/Las%20Vegas%20Wynn%20P4220706.jpg,https://www.wynnlasvegas.com/,Paradise,36.12755,-115.16779
+Q1318597,hotel,Penn's Cave House,http://commons.wikimedia.org/wiki/Special:FilePath/Penns%20Cave%20Hotel%20Oct%202020.jpg,,Gregg Township,40.882778,-77.61
+Q1320695,hotel,Grand Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Hotel%20MI%20From%20Lake.jpg,https://www.grandhotel.com/,Mackinac Island,45.851111,-84.625833
+Q1340132,hotel,Encore,http://commons.wikimedia.org/wiki/Special:FilePath/Encore%2C%20Las%20Vegas%20Strip.jpg,,Nevada,36.1274003,-115.166211
+Q1340365,hotel,Westgate Las Vegas Resort & Casino,http://commons.wikimedia.org/wiki/Special:FilePath/Westgate%20Las%20Vegas.jpg,http://www.westgatelasvegasresort.com/,Nevada,36.1361,-115.1514
+Q1342565,hotel,Planet Hollywood Resort & Casino,http://commons.wikimedia.org/wiki/Special:FilePath/Planet%20Hollywood%20Casino.jpg,https://www.caesars.com/planet-hollywood,Clark County,36.11,-115.171
+Q1347033,hotel,Dunes,http://commons.wikimedia.org/wiki/Special:FilePath/Dunes%20Hotel.jpg,,Paradise,36.1125,-115.17472222
+Q1360313,hotel,Treasure Island Hotel and Casino,http://commons.wikimedia.org/wiki/Special:FilePath/Treasure%20Island%20Hotel%20Las%20Vegas.jpg,http://www.treasureisland.com/,Paradise,36.125,-115.171944444
+Q1368043,hotel,Mandalay Bay,http://commons.wikimedia.org/wiki/Special:FilePath/Mandalay%20Bay%20Hotel%20Las%20Vegas%20%28July%2015%202008%29.jpg,http://www.mandalaybay.com,Paradise,36.091666666,-115.174722222
+Q1426968,hotel,Flamingo Las Vegas,http://commons.wikimedia.org/wiki/Special:FilePath/Flamingohotelyay.jpg,https://www.caesars.com/flamingo-las-vegas,Nevada,36.116111,-115.170556
+Q1435790,hotel,Fontainebleau Miami Beach,http://commons.wikimedia.org/wiki/Special:FilePath/Miami%20Beach%20FL%20Fontainebleau01.jpg,https://fontainebleau.com/,Miami Beach,25.8178372,-80.1227119
+Q1436845,hotel,Cosmopolitan of Las Vegas,http://commons.wikimedia.org/wiki/Special:FilePath/Cosmopolitan%20-%20North%20-%202011-06-04.jpg,https://www.cosmopolitanlasvegas.com/,Nevada,36.1098,-115.17605
+Q1440000,hotel,Four Seasons Hotel Miami,http://commons.wikimedia.org/wiki/Special:FilePath/Four%20Seasons%20Miami%20complete%2020100206.jpg,http://www.fourseasons.com/miami/,Miami,25.75925,-80.19197
+Q1535018,hotel,Golden Nugget Las Vegas Hotel & Casino,http://commons.wikimedia.org/wiki/Special:FilePath/Fremont%20street%201983.jpg,http://www.goldennugget.com/,Nevada,36.1706,-115.1448
+Q1535845,hotel,Riviera Hotel and Casino,http://commons.wikimedia.org/wiki/Special:FilePath/Riviera%20Hotel%20%26%20Casino%2C%20Las%20Vagas.jpg,http://www.rivierahotel.com,Nevada,36.135,-115.162
+Q1559342,hotel,Hollywood Roosevelt Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Hollywood%20Roosevelt%20Hotel%202015.jpg,https://www.thehollywoodroosevelt.com/,Los Angeles,34.101375,-118.341691
+Q1580067,hotel,Harrah's Las Vegas,http://commons.wikimedia.org/wiki/Special:FilePath/Harrah%27s%20hotel%20%28Las%20Vegas%29.jpg,https://www.caesars.com/harrahs-las-vegas,Nevada,36.1187,-115.168
+Q1630836,hotel,Beverly Wilshire Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/BeverlyWilshire01.jpg,https://www.fourseasons.com/beverlywilshire/,Beverly Hills,34.066944,-118.400833
+Q5043020,hotel,Carlton Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20of%20Carlton%20Hotel%20in%20Downtown%20Atascadero%2004-07-15.jpg,https://www.the-carlton.com/,Atascadero,35.48937,-120.6699
+Q15235272,hotel,Keewaydin Club,http://commons.wikimedia.org/wiki/Special:FilePath/Keewaydin%20Club-%20Keewaydin%2C%20Florida%20%287555747394%29.jpg,,Naples,26.08972222,-81.80055556
+Q15263803,hotel,Old Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/OLD%20HOTEL%3B%20PRINCE%20WILLIAM%20COUNTY.jpg,,Dumfries,38.56861111,-77.32416667
+Q15275712,hotel,Schwartz Tavern,http://commons.wikimedia.org/wiki/Special:FilePath/Blackstone%2C%20VA%20-%20Schwartz%20Tavern%20oblique.JPG,,Blackstone,37.08166667,-77.99611111
+Q15964591,hotel,Old Deery Inn,http://commons.wikimedia.org/wiki/Special:FilePath/Blountville-deery-inn-tn1.jpg,,Sullivan County,36.5331,-82.3261
+Q16825547,hotel,Capt. William Bull Tavern,http://commons.wikimedia.org/wiki/Special:FilePath/CAPTAIN%20WILLIAM%20BULL%20TAVERN%2C%20LITCHFIELD%20COUNTY%2C%20CT.jpg,,Litchfield,41.7811,-73.1612
+Q16844191,hotel,Holderness Inn,http://commons.wikimedia.org/wiki/Special:FilePath/HoldernessNH%20FormerHoldernessInn.jpg,,Holderness,43.7314,-71.59
+Q16894221,hotel,Lisbon Inn,http://commons.wikimedia.org/wiki/Special:FilePath/LisbonNH%20FormerLisbonInn.jpg,,Lisbon,44.2131,-71.9128
+Q16894357,hotel,Lovett's by Lafayette Brook,http://commons.wikimedia.org/wiki/Special:FilePath/Lovett%27s%20Inn%20Franconia%20NH.jpg,,Franconia,44.2044,-71.7236
+Q16899347,hotel,Riverside Inn,http://commons.wikimedia.org/wiki/Special:FilePath/Riverside%20Inn.JPG,,Leelanau County,45.0222,-85.7581
+Q16984399,hotel,Birchwood Inn,http://commons.wikimedia.org/wiki/Special:FilePath/TempleNH%20BirchwoodInn.jpg,http://www.thebirchwoodinn.com,Temple,42.82,-71.85111111
+Q17066364,hotel,Salem Cross Inn,http://commons.wikimedia.org/wiki/Special:FilePath/WestBrookfieldMA%20SalemCrossInn.jpg,,West Brookfield,42.24425,-72.17324
+Q17105004,hotel,Ware Shoals Inn,http://commons.wikimedia.org/wiki/Special:FilePath/Ware%20Shoals%20Inn.jpg,,Ware Shoals,34.3939,-82.2469
+Q17152987,hotel,Backside Inn,http://commons.wikimedia.org/wiki/Special:FilePath/GoshenNH%20BacksideInn.jpg,,Goshen,43.31305556,-72.11416667
+Q21079412,hotel,Little River Inn,http://commons.wikimedia.org/wiki/Special:FilePath/Little%20River%20Inn%20-%20Stierch.jpg,http://www.littleriverinn.com/,Little River,39.271941666,-123.789013888
+Q22059331,hotel,College Club Inn,http://commons.wikimedia.org/wiki/Special:FilePath/College%20Club%20Inn.jpg,,Searsport,44.44444444,-68.93527778
+Q22060801,hotel,Crawford House,http://commons.wikimedia.org/wiki/Special:FilePath/Crawford%20House%2C%20looking%20toward%20Elephant%27s%20Head%2C%20White%20Mountains%2C%20N.%20H%20%28NYPL%20b12647398-68933%29.tiff,,Carroll,44.219982,-71.41232
+Q22077926,hotel,Los Poblanos Historic Inn & Organic Farm,http://commons.wikimedia.org/wiki/Special:FilePath/Los%20Poblanos%20farm.JPG,,New Mexico,35.1484,-106.66767
+Q23017223,hotel,Henry Shull Farmhouse Inn,http://commons.wikimedia.org/wiki/Special:FilePath/Site%20of%20the%20Henry%20Shull%20Farmhouse%20Inn.jpg,,Keyser Township,41.32666667,-85.08972222
+Q23091853,hotel,John and Martinus Laraway Inn,http://commons.wikimedia.org/wiki/Special:FilePath/John%20and%20Martinus%20Laraway%20Inn.jpg,,Prattsville,42.31861111,-74.43555556
+Q23827036,hotel,Red Cedar Inn,http://commons.wikimedia.org/wiki/Special:FilePath/Red%20Cedar%20Inn%20Pacific%20MO-med.jpg,,Pacific,38.4817,-90.7177
+Q24675804,hotel,Sunshine Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Sunshine%20Hotel%20jeh.jpg,,,40.722555555,-73.992861111
+Q24970749,hotel,Grey Havens Inn,http://commons.wikimedia.org/wiki/Special:FilePath/GeorgetownME%20GreyHavensInn.jpg,,Georgetown,43.81083333,-69.72111111
+Q25004642,hotel,Profile House,http://commons.wikimedia.org/wiki/Special:FilePath/New%20Profile%20House%2C%20Franconia%20Notch%20%28NBY%202105%29.jpg,,Franconia,44.16888889,-71.68638889
+Q2589991,hotel,Hermitage Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/HermitageHotelNashville.jpg,https://www.thehermitagehotel.com/,Nashville,36.1637,-86.78252
+Q2590004,hotel,Maxwell House Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Maxwell%20House%20Hotel.jpg,,Nashville,36.1638,-86.7793
+Q2632626,hotel,Hollywood Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Hollywood-hotel-1905.jpg,,Los Angeles,34.1019,-118.34
+Q2648096,hotel,W San Francisco,http://commons.wikimedia.org/wiki/Special:FilePath/W%20Hotel%20San%20Francisco%20%282597719712%29.jpg,,San Francisco,37.785359,-122.400637
+Q2667158,hotel,Hilton Orlando Lake Buena Vista,http://commons.wikimedia.org/wiki/Special:FilePath/Hilton%20Night%2011%20x%2014%20High%20Res%20cropped.jpg,https://hilton.com/en/hotels/orldwhh-hilton-orlando-lake-buena-vista,Lake Buena Vista,28.3726305,-81.5107951
+Q2717781,hotel,The Villas at Disney's Wilderness Lodge,http://commons.wikimedia.org/wiki/Special:FilePath/Villas%20at%20Disney%27s%20Wilderness%20Lodge.jpg,,Florida,28.4082,-81.5713
+Q2746732,hotel,Conrad Indianapolis,http://commons.wikimedia.org/wiki/Special:FilePath/Conrad%20Indianapolis.jpg,http://conradindianapolis.com,Indianapolis,39.76726,-86.15935
+Q2795889,hotel,Fairmont Century Plaza,http://commons.wikimedia.org/wiki/Special:FilePath/Fairmont%20Century%20Plaza%2C%20Century%20City%2C%20Los%20Angeles.jpg,,Los Angeles,34.057222,-118.415833
+Q2829469,hotel,Aladdin,http://commons.wikimedia.org/wiki/Special:FilePath/CASSINO-ALADIM.JPG,,Las Vegas,36.11,-115.17138889
+Q2841248,hotel,Harrah's Reno,http://commons.wikimedia.org/wiki/Special:FilePath/H%20Reno.jpg,,Nevada,39.5275,-119.813
+Q2895142,hotel,Belton Chalets,http://commons.wikimedia.org/wiki/Special:FilePath/Belton%20Chalet%20main%201.jpg,https://www.glacierparkcollection.com/lodging/belton-chalet/,West Glacier,48.496667,-113.975556
+Q2903098,hotel,The Vanderpump Hotel Las Vegas,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Cromwell%20Las%20Vegas%20at%20Night.jpg,https://www.caesars.com/cromwell,Las Vegas,36.115025,-115.17275
+Q2910840,hotel,The Borgata,http://commons.wikimedia.org/wiki/Special:FilePath/Borgata%20ac.jpg,http://www.theborgata.com/,Atlantic City,39.3775,-74.4351
+Q2914712,hotel,Disney's Grand Floridian Resort & Spa,http://commons.wikimedia.org/wiki/Special:FilePath/Disney%20Resort%20courtyard%20pool.jpg,https://disneyworld.disney.go.com/resorts/grand-floridian-resort-and-spa/,Florida,28.4114,-81.5868
+Q2919757,hotel,Disney's Polynesian Village Resort,http://commons.wikimedia.org/wiki/Special:FilePath/POLY%20Tahiti-beach.jpg,https://disneyworld.disney.go.com/resorts/polynesian-resort/,Florida,28.40537,-81.5854
+Q2920230,hotel,Disney's Grand Californian Hotel & Spa,http://commons.wikimedia.org/wiki/Special:FilePath/2006%20Grand%20Californian.jpg,https://disneyland.disney.go.com/grand-californian-hotel/,Anaheim,33.8078,-117.923
+Q2927634,hotel,Buffalo Bill's,http://commons.wikimedia.org/wiki/Special:FilePath/Primm%2C%20Nevada%20%282%29.jpg,http://www.primmvalleyresorts.com/,Nevada,35.6149,-115.385
+Q2928530,hotel,Cadillac Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Cadillac%20Hotel%20%281%29.jpg,,Miami Beach,25.811944,-80.123056
+Q2941108,hotel,Casino Royale Hotel & Casino,http://commons.wikimedia.org/wiki/Special:FilePath/I-1253044640.jpg,http://www.casinoroyalehotel.com,Nevada,36.1206,-115.171
+Q3030278,hotel,Disney's All-Star Movies Resort,http://commons.wikimedia.org/wiki/Special:FilePath/Disney%27s%20All-Star%20Movie%20Resort%2009.jpg,https://disneyworld.disney.go.com/resorts/all-star-movies-resort/,Florida,28.336,-81.5722
+Q3030279,hotel,Disney's All-Star Music Resort,http://commons.wikimedia.org/wiki/Special:FilePath/Disney%C2%B4s%20All%20Star%20Music%20Resort%20-%20panoramio.jpg,https://disneyworld.disney.go.com/resorts/all-star-music-resort/,Florida,28.3398,-81.573
+Q3030286,hotel,Disney's All-Star Sports Resort,http://commons.wikimedia.org/wiki/Special:FilePath/Disney%20All%20Stars%20Sports%20Hotel.jpg,https://disneyworld.disney.go.com/resorts/all-star-sports-resort/,,28.3437,-81.5753
+Q3030287,hotel,Disney's Art of Animation Resort,http://commons.wikimedia.org/wiki/Special:FilePath/Art%20of%20Animation%20Resort%20%2842346698895%29.jpg,https://disneyworld.disney.go.com/resorts/art-of-animation-resort/,Florida,28.3503,-81.5485
+Q3030298,hotel,Disney's Beach Club Resort,http://commons.wikimedia.org/wiki/Special:FilePath/DisneyBeachClub1.jpg,https://disneyworld.disney.go.com/resorts/beach-club-resort/,Florida,28.3712,-81.5564
+Q3030299,hotel,Disney's BoardWalk Resort,http://commons.wikimedia.org/wiki/Special:FilePath/BoardwalkInn.jpg,https://disneyworld.disney.go.com/resorts/boardwalk-inn/,Florida,28.3672,-81.5564
+Q3030306,hotel,Disney's Caribbean Beach Resort,http://commons.wikimedia.org/wiki/Special:FilePath/Disney%27s%20Caribbean%20Beach%20Resort.JPG,http://disneyworld.disney.go.com/resorts/caribbean-beach-resort/,Florida,28.3625,-81.5427
+Q3030310,hotel,Disney's Coronado Springs Resort,http://commons.wikimedia.org/wiki/Special:FilePath/Disney%27s%20Coronado%20Springs%20Resort%201.jpg,https://disneyworld.disney.go.com/resorts/coronado-springs-resort/,Florida,28.3639,-81.5736
+Q3030312,hotel,Disney's Hilton Head Island Resort,http://commons.wikimedia.org/wiki/Special:FilePath/Disney%20HHI%20Resort%20October%202007%2001.jpg,https://hiltonhead.disney.go.com/,South Carolina,32.1822,-80.7275
+Q3030332,hotel,Disney's Old Key West Resort,http://commons.wikimedia.org/wiki/Special:FilePath/Old%20key%20west%20panoramic.jpg,http://disneyworld.disney.go.com/,Florida,28.3736,-81.5341
+Q3030333,hotel,Disney's Paradise Pier Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Pixar%20Place%20Hotel.jpg,https://disneyland.disney.go.com/paradise-pier-hotel/,California,33.8064,-117.924
+Q3030334,hotel,Disney's Port Orleans Resort French Quarter,http://commons.wikimedia.org/wiki/Special:FilePath/POFQ%20Resort%20Building%201.jpg,http://disneyworld.disney.go.com/,,28.3805,-81.5364
+Q3030336,hotel,Disney's Port Orleans Resort Riverside,http://commons.wikimedia.org/wiki/Special:FilePath/Disney%27s%20Port%20Orleans%20Resort%20Riverside%20Entrance%202024.jpg,http://disneyworld.disney.go.com/,,28.38506,-81.53642
+Q3030338,hotel,Disney's Pop Century Resort,http://commons.wikimedia.org/wiki/Special:FilePath/Disney%27s-Pop-Century-Resort-Entrance.jpg,https://disneyworld.disney.go.com/resorts/pop-century-resort/,Florida,28.3503,-81.543
+Q3030339,hotel,Disney's Port Orleans Resort,http://commons.wikimedia.org/wiki/Special:FilePath/POFQ%20Resort%20Building%201.jpg,,Florida,28.387068,-81.536729
+Q3030342,hotel,Disney's Vero Beach Resort,http://commons.wikimedia.org/wiki/Special:FilePath/DVBR%20slide.JPG,https://verobeach.disney.go.com/,Vero Beach,27.76138889,-80.39694444
+Q3030345,hotel,Disney's Saratoga Springs Resort & Spa,http://commons.wikimedia.org/wiki/Special:FilePath/Congress%20Park%2C%20Disney%27s%20Saratoga%20Springs%20Resort%20and%20Spa.jpg,https://disneyworld.disney.go.com/resorts/saratoga-springs-resort-and-spa/,Florida,28.3767,-81.5202
+Q3030360,hotel,Aulani,http://commons.wikimedia.org/wiki/Special:FilePath/Aulani%2C%20a%20Disney%20Resort%20%26%20Spa%20by%20Anthony%20Quintano.jpg,http://resorts.disney.go.com/aulani-hawaii-resort/,Kapolei,21.33981,-158.12318
+Q3047559,hotel,Edgewater Beach Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Edgewater%20Beach%2C%20Chicago.jpg,,Chicago,41.983611,-87.654722
+Q3049820,hotel,El Cortez Apartment Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/El%20Cortez%20Apartment%20Hotel.jpg,,San Diego,32.720278,-117.158056
+Q3052154,hotel,Emerald Plaza,http://commons.wikimedia.org/wiki/Special:FilePath/EmeraldPlazaSanDiegoApr09.jpg,,San Diego,32.716388888,-117.166944444
+Q3066336,hotel,New Yorker Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/NewYorker%20Hotel.JPG,http://www.newyorkerhotel.com,Manhattan,40.752777777,-73.993611111
+Q3109997,hotel,Gold Coast Hotel and Casino,http://commons.wikimedia.org/wiki/Special:FilePath/Gold%20Coast%20Casino%2C%20Las%20Vegas%20NV.jpg,http://www.goldcoastcasino.com/,Nevada,36.1164,-115.192
+Q3135697,hotel,Hilton Hawaiian Village,http://commons.wikimedia.org/wiki/Special:FilePath/DukesLagoon4.jpg,http://www.hiltonhawaiianvillage.com/,Honolulu,21.2824,-157.8374
+Q3145586,hotel,Marlborough-Blenheim Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Marlborough-Blenheim%20Hotel%2C%20Atlantic%20City%2C%20New%20Jersey.png,,New Jersey,39.3556,-74.4317
+Q3153055,hotel,InterContinental San Francisco,http://commons.wikimedia.org/wiki/Special:FilePath/Construction%20of%20the%20InterContinental%20Hotel%20San%20Francisco%202007-05-26.jpg,http://www.intercontinentalsanfrancisco.com,San Francisco,37.7818,-122.405
+Q3156981,hotel,JW Marriott Hotel New Orleans,http://commons.wikimedia.org/wiki/Special:FilePath/LeMeridieneHotelNOLASept2009.jpg,,Louisiana,29.95266,-90.06868
+Q3177225,hotel,Westin Peachtree Plaza Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/191%20Peachtree%20Westin.jpg,,Atlanta,33.75948,-84.38765
+Q3196571,hotel,Kilauea Military Camp,http://commons.wikimedia.org/wiki/Special:FilePath/Kilauea%20Military%20Camp%20Office%2C%201959.JPG,http://www.kmc-volcano.com,Hawaiʻi Volcanoes National Park,19.4336,-155.274
+Q3294850,hotel,San Diego Marriott Hotel and Marina,http://commons.wikimedia.org/wiki/Special:FilePath/MarriottHotelTower1SanDiegoApr09.jpg,https://www.marriott.fr/hotels/travel/sandt-marriott-marquis-san-diego-marina/,San Diego,32.708,-117.166
+Q3294853,hotel,Marriott Rivercenter,http://commons.wikimedia.org/wiki/Special:FilePath/Marriottrivercentersantx.JPG,,San Antonio,29.4233,-98.4839
+Q3297562,hotel,Wayside Inn,http://commons.wikimedia.org/wiki/Special:FilePath/Wayside%20Inn%2C%20Sudbury%20MA.jpg,,Massachusetts,42.357222222,-71.468333333
+Q3350186,hotel,Virgin Hotels Chicago,http://commons.wikimedia.org/wiki/Special:FilePath/20150217%20Virgin%20Hotels%20Chicago%20Wabash%20entry.JPG,https://virginhotels.com/chicago/,Chicago,41.8861,-87.626
+Q3352062,hotel,Omni San Diego Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Omni%20hotel%20san%20diego%20-%20panoramio.jpg,https://www.omnihotels.com/hotels/san-diego,San Diego,32.7067,-117.159
+Q3356472,hotel,The Orleans,http://commons.wikimedia.org/wiki/Special:FilePath/Orleans2-LV.JPG,https://www.orleanscasino.com/,Nevada,36.1046,-115.202
+Q3365423,hotel,Park Plaza Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Park%20Plaza%20Hotel%20Building.jpg,http://www.parkplazala.com,Los Angeles,34.0608,-118.279
+Q3378613,hotel,Carlyle Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Carlyle%20Hotel%20Madison%2076%20jeh.JPG,https://www.rosewoodhotels.com/en/the-carlyle-new-york,Manhattan,40.774444444,-73.963055555
+Q3409012,hotel,Walt Disney World Dolphin,http://commons.wikimedia.org/wiki/Special:FilePath/Walt-Disney-World-Dolphin.jpg,,Florida,28.3672,-81.5606
+Q3446105,hotel,Royalton Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Royalton-hotel.jpg,http://www.royaltonhotel.com,Manhattan,40.755555555,-73.982222222
+Q3471438,hotel,San Francisco Marriott Marquis,http://commons.wikimedia.org/wiki/Special:FilePath/San%20Francisco%20Marriott%20Marquis.jpg,https://www.marriott.com/hotels/travel/sfodt-san-francisco-marriott-marquis/,San Francisco,37.78507,-122.40482
+Q3481157,hotel,Shades of Green,http://commons.wikimedia.org/wiki/Special:FilePath/Shades%20of%20Green%20%285136679388%29.jpg,http://www.shadesofgreen.org/,Florida,28.4021,-81.5924
+Q995338,hotel,Bryson Apartment Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Bryson%20Apartment%20Hotel%2C%20Los%20Angeles.JPG,,Los Angeles,34.061111,-118.281389
+Q1585008,hotel,Hard Rock Hotel and Casino,http://commons.wikimedia.org/wiki/Special:FilePath/Hard%20rock%20las%20vegas.jpg,https://hardrockhotel.com/,Clark County,36.1086,-115.154
+Q1630862,hotel,Hotel Colorado,http://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Colorado%202007.jpg,,Glenwood Springs,39.550861,-107.324694
+Q1631006,hotel,Hotel Pennsylvania,http://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Penn%2C%20April%202019.jpg,https://www.hotelpenn.com/,Manhattan,40.749722,-73.990556
+Q1631096,hotel,Hotel del Coronado,http://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Del%20Coronado%20Drone%20Picture%20Turf%20Lawn.jpg,https://hoteldel.com/,Coronado,32.68095556,-117.17841667
+Q1637090,hotel,"South Point Hotel, Casino & Spa",http://commons.wikimedia.org/wiki/Special:FilePath/Southcoastcasinovegas.jpg,http://www.southpointcasino.com/,Las Vegas,36.01135,-115.17415
+Q1771977,hotel,Pinehurst Resort,http://commons.wikimedia.org/wiki/Special:FilePath/Pinehurst%20No.%202.JPG,https://www.pinehurst.com/,Pinehurst,35.1895,-79.4678
+Q1795050,hotel,Palace Station,http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20Station%2C%20Las%20Vegas%20NV.jpg,https://www.palacestation.com/,Nevada,36.1427,-115.1743
+Q1854509,hotel,Park MGM,http://commons.wikimedia.org/wiki/Special:FilePath/Park%20MGM%20exterior.jpg,http://www.parkmgm.com,Paradise,36.1047,-115.176
+Q1920529,hotel,Mission Inn,http://commons.wikimedia.org/wiki/Special:FilePath/MissionInn%20SpanishWing.jpg,https://www.missioninn.com/,Riverside,33.983333,-117.372778
+Q1925179,hotel,Carbide & Carbon Building,http://commons.wikimedia.org/wiki/Special:FilePath/Carbide-and-Carbon-Building-01.jpg,https://stjanehotel.com/,Chicago,41.8866,-87.6249
+Q1942904,hotel,Mohonk Mountain House,http://commons.wikimedia.org/wiki/Special:FilePath/Mohonk%20Mountain%20House%202011%20View%20of%20Mohonk%20Guest%20Rooms%20from%20One%20Hiking%20Trail%20FRD%203205.jpg,https://www.mohonk.com/,New Paltz,41.768611,-74.155556
+Q1950806,hotel,Mount Washington Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Mt.%20Washington%20Hotel.jpg,https://www.omnihotels.com/hotels/bretton-woods-mount-washington,Carroll,44.257618,-71.440216
+Q1991008,hotel,Bullock Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Bullock%20Hotel.jpg,http://www.historicbullock.com,South Dakota,44.3778,-103.729
+Q2002896,hotel,Bay Lake Tower at Disney's Contemporary Resort,http://commons.wikimedia.org/wiki/Special:FilePath/Contemproary-blt-exterior.jpg,https://disneyworld.disney.go.com/resorts/bay-lake-tower-at-contemporary/,Florida,28.416351,-81.573751
+Q2021533,hotel,Beverly Hills Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/BeverlyHillsHotel03.jpg,https://www.dorchestercollection.com/en/los-angeles/the-beverly-hills-hotel,Beverly Hills,34.081892728,-118.413488376
+Q2028470,hotel,Amargosa Opera House and Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Amargosa%20Opera%20House%2001%202013.jpg,http://www.amargosa-opera-house.com,Inyo County,36.3021,-116.415
+Q2046752,hotel,Palace Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20Hotel%20from%201%20Montgomery%20St.%20roof%20garden.JPG,http://www.sfpalace.com/main/home.htm,San Francisco,37.788144,-122.401724
+Q2049010,hotel,Wyndham Lake Buena Vista,http://commons.wikimedia.org/wiki/Special:FilePath/Downtown%20Disney%20Lake%2C%20Orlando%20-%20panoramio%20%281%29.jpg,,Florida,28.37475,-81.51144
+Q2056666,hotel,Patee House,http://commons.wikimedia.org/wiki/Special:FilePath/Patee-house1.jpg,,St. Joseph,39.75595,-94.844919
+Q2099561,hotel,Hilton Chicago,http://commons.wikimedia.org/wiki/Special:FilePath/Chicago%20Hilton%20Hotel.jpg,http://www3.hilton.com/en/hotels/illinois/hilton-chicago-CHICHHH/,Chicago,41.8725,-87.62443
+Q2131379,hotel,The Beverly Hilton,http://commons.wikimedia.org/wiki/Special:FilePath/BeverlyHilton03.jpg,http://www.beverlyhilton.com/,Beverly Hills,34.0664,-118.413
+Q2159261,hotel,El Tovar Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/El%20Tovar%20Grand%20Canyon%20Village%2009%202017%205284.jpg,https://www.grandcanyonlodges.com/lodging/el-tovar-hotel/,Grand Canyon Village,36.0575,-112.136944
+Q2228209,hotel,Savoy-Plaza Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Central%20Park%2C%20Plaza%20at%20the%20pond%2C%20New%20York%20City%2C%20NY%205a18137u%20original.jpg,,Manhattan,40.763771,-73.972793
+Q2276425,hotel,Klondike Hotel and Casino,http://commons.wikimedia.org/wiki/Special:FilePath/Klondike.jpg,,Nevada,36.0833,-115.172
+Q2293021,hotel,Biltmore Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Coral%20Gables%20FL%20Biltmore01.jpg,https://www.biltmorehotel.com/,Coral Gables,25.741111,-80.279167
+Q2297323,hotel,Delano Las Vegas,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Hotel%20at%20Mandalay%20Bay.JPG,https://www.delanolasvegas.com/en.html,Nevada,36.0919,-115.175
+Q2319338,hotel,Fletcher Trust Building,http://commons.wikimedia.org/wiki/Special:FilePath/Hilton%20Garden%20Inn%20Indianapolis%20Downtown.jpg,,Indianapolis,39.7687,-86.1565
+Q2322983,hotel,The St. Regis Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/The%20St.%20Regis%20Hotel%20New%20York.JPG,http://www.stregisnewyork.com/,Manhattan,40.761388888,-73.974722222
+Q2567200,hotel,The Whittier,http://commons.wikimedia.org/wiki/Special:FilePath/Whittier%20Hotel%20Panorama%20Detroit.jpg,,Detroit,42.354722,-82.989722
+Q7106366,hotel,Osceola Apartment Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Miami%20Springs%20FL%20Osceola%20Apartment%20Hotel01.jpg,,Miami Springs,25.819160728,-80.285459527
+Q7411930,hotel,Samuel Kraemer Building,http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Kraemer%20Building.jpg,http://www.thekraemer.com/,Orange County,33.835833,-117.912778
+Q7774824,hotel,The Wilbraham,http://commons.wikimedia.org/wiki/Special:FilePath/Wilbraham%20284%20Fifth%20Avenue.jpg,,Manhattan,40.7462,-73.9867
+Q16890267,hotel,Chicago Beach Apartments,http://commons.wikimedia.org/wiki/Special:FilePath/Scholars%20Corner%20Apartments%202.jpg,,Chicago,41.8023,-87.5869
+Q21197500,hotel,Collier Springs Picnic Area,http://commons.wikimedia.org/wiki/Special:FilePath/Collier%20Springs%20Shelter.jpg,,Arkansas,34.48361111,-93.5925
+Q21197502,hotel,Crystal Campground,http://commons.wikimedia.org/wiki/Special:FilePath/Crystal%20Springs%20Camp%20Shelter.jpg,,Norman,34.47944444,-93.63805556
+Q25346114,hotel,Walker Field Shelterhouse,http://commons.wikimedia.org/wiki/Special:FilePath/Walker%20Field%20Shelterhouse.jpg,,Indiana,41.65055556,-86.26944444
+Q27525136,hotel,Indian Bar Trail Shelter,http://commons.wikimedia.org/wiki/Special:FilePath/Indian%20Bar%20Trail%20Shelter.JPG,,Pierce County,46.825897,-121.639748
+Q28124434,hotel,Hominy Ridge Shelter House,http://commons.wikimedia.org/wiki/Special:FilePath/Hominy%20Ridge%20Shelter%20House.jpg,,Indiana,40.80944444,-85.68305556
+Q29097471,hotel,Red Mountain Shelter,http://commons.wikimedia.org/wiki/Special:FilePath/CornwallCT%20RedMountainShelter%201.jpg,,Cornwall,41.84722222,-73.2875
+Q29468992,hotel,Norfolk Downs Shelter,http://commons.wikimedia.org/wiki/Special:FilePath/NorfolkCT%20NorfolkDownsShelter.jpg,,Norfolk,41.98111111,-73.21611111
+Q55606666,hotel,Carling Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Carling%20Hotel.jpg,,Chicago,41.90972222,-87.63361111
+Q55622223,hotel,Mark Twain Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Twain%20Hotel.jpg,,Chicago,41.90388889,-87.63194444
+Q55622277,hotel,Marshall Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Marshall%20Hotel%20Under%20Renovation.jpg,,Chicago,41.90472222,-87.63305556
+Q72210261,hotel,East Park Towers,http://commons.wikimedia.org/wiki/Special:FilePath/20080630%20East%20Park.JPG,,Chicago,41.799722222,-87.584444444
+Q85754418,hotel,Covent Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Corner%20View%20of%20the%20Covent%20Hotel%20in%20Chicago%2C%20Illinois.jpg,,Chicago,41.93111111,-87.64388889
+Q85803639,hotel,Strand Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Strand%20Hotel%20%28Chicago%29%202.jpg,,Chicago,41.77972222,-87.60583333
+Q95683652,hotel,Sovereign Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Sovereign%20%28NBY%20416519%29.jpg,,Chicago,41.994951,-87.657317
+Q96409012,hotel,The Homestead,http://commons.wikimedia.org/wiki/Special:FilePath/Homestead%2C%20The%201.JPG,,Evanston,42.04666667,-87.67722222
+Q5123233,hotel,City Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/City%20Hotel%20in%20Marthaville%2C%20Louisiana.jpg,,Louisiana,31.739167,-93.395278
+Q5123234,hotel,City Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Sonora%20CA.jpg,,Sonora,37.98361111,-120.38083333
+Q5123235,hotel,City Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/City%20Hotel%20%28Wheatland%2C%20Iowa%29.JPG,,Iowa,41.830833,-90.838889
+Q5126326,hotel,Claremont Hotel & Spa,http://commons.wikimedia.org/wiki/Special:FilePath/Claremonthotel03192006.JPG,http://www.claremontresort.com/,Alameda County,37.8588,-122.2418
+Q5126949,hotel,Claridge Atlantic City,http://commons.wikimedia.org/wiki/Special:FilePath/Claridge%20Atlantic%20City%20%28Night%29.JPG,http://www.claridge.com,New Jersey,39.3575,-74.4318
+Q5127122,hotel,Clark-Dearstyne-Miller Inn,http://commons.wikimedia.org/wiki/Special:FilePath/RensselaerNY%20ClarkDearstyneMillerInn.jpg,,New York,42.658889,-73.735
+Q5131391,hotel,Clement Railroad Hotel Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20Halbrook.jpg,,Tennessee,36.075,-87.389444
+Q5132057,hotel,Cleveland Arcade,http://commons.wikimedia.org/wiki/Special:FilePath/Cleveland%20Arcade%20%2816474788975%29.jpg,,Cleveland,41.5,-81.690278
+Q5132351,hotel,Clewiston Inn,http://commons.wikimedia.org/wiki/Special:FilePath/Clewiston%20FL%20Inn01.jpg,,Clewiston,26.7545,-80.9335
+Q5133119,hotel,Clift Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/The%20sophisticated%20Redwood%20Room%20bar%20in%20the%20Clift%20Hotel%2C%20San%20Francisco%2C%20California%20LCCN2011631777.tif,http://www.clifthotel.com,San Francisco,37.7867,-122.4111
+Q5133154,hotel,Clifton-Metropolitan Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Parking%20Ramp%20-%20Main%20Street%20%28Redstone%29.jpg,,Davenport,,
+Q5133290,hotel,Clifton Park Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Clifton%20Park%20Hotel.jpg,,New York,42.865833,-73.770833
+Q5134155,hotel,Clinton Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Miami%20Beach%20-%20Clinton%20Hotel.jpg,,Miami Beach,25.778808,-80.132946
+Q5135643,hotel,Cloud Cap Inn,http://commons.wikimedia.org/wiki/Special:FilePath/Cloud%20Cap%20Inn%201889.jpg,,Hood River County,45.40361111,-121.65361111
+Q5136066,hotel,Cloyne Court Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/CloyneCt1.jpg,,Berkeley,37.875833,-122.257222
+Q5136160,hotel,Club Cal Neva,http://commons.wikimedia.org/wiki/Special:FilePath/Club%20Cal%20Neva.jpg,https://www.clubcalneva.com/,Nevada,39.5267,-119.813
+Q5136350,hotel,Club Quarters Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/ClubquartersHouston.JPG,http://www.clubquarters.com/loc_houston.aspx,Harris County,29.75808,-95.36302
+Q5136941,hotel,Clyde Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Clyde%20Hotel.jpg,,Portland,45.522106,-122.681597
+Q5138820,hotel,Cobblestone Inn,http://commons.wikimedia.org/wiki/Special:FilePath/Cobblestone%20Inn%2C%20Oak-Orchard-on-the-Ridge%2C%20NY.jpg,,New York,43.274444,-78.333056
+Q5139335,hotel,Cochise Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Cochise%20Hotel%20AZ.jpg,,Arizona,32.104822,-109.922122
+Q5142150,hotel,Colcord Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Colcord%202006.jpg,,Oklahoma City,35.46652,-97.51671
+Q5148333,hotel,Colonial Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Inn%20at%20Wise%20Courthouse.jpg,,Wise County,36.9775,-82.5808
+Q5148392,hotel,Colonial Theatre,http://commons.wikimedia.org/wiki/Special:FilePath/Colonial%20Theatre%20Harrisburg%20PA%20April%202024.jpg,,Harrisburg,40.2606,-76.8811
+Q5148740,hotel,Colorado Belle,http://commons.wikimedia.org/wiki/Special:FilePath/Colorado%20Belle.jpg,,,35.15798,-114.57203
+Q5149697,hotel,Columbia Gorge Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Columbia%20Gorge%20Hotel%20-%20Hood%20River%20Oregon.jpg,,Hood River,45.711667,-121.553056
+Q5149840,hotel,Shaniko Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Columbia%20Southern%20Hotel%201910%20-%20Shaniko%20Oregon.jpg,,Shaniko,45.003528,-120.7525
+Q5153227,hotel,Commodore Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Commodore%20Hotel%202%20-%20Portland%20Oregon.jpg,,Portland,45.521639,-122.688231
+Q5156092,hotel,Compass Inn,http://commons.wikimedia.org/wiki/Special:FilePath/Compass%20Inn%20Pennsylvania.jpg,,Pennsylvania,40.2119,-79.1992
+Q5159134,hotel,Condado Vanderbilt Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Condado%20Vanderbilt%20Hotel%20From%20Driveway.JPG,https://www.condadovanderbilt.com/,San Juan,18.4586,-66.0761
+Q5160792,hotel,Congress Hall,http://commons.wikimedia.org/wiki/Special:FilePath/Congress%20Hotel%20CMHD.JPG,http://www.congresshall.com/,New Jersey,38.9314,-74.9243
+Q5160816,hotel,Congress Plaza Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Congress%20Plaza%20Hotel%20-%20Chicago%20-%20October%202012.JPG,http://www.congressplazahotel.com/,Illinois,41.8754,-87.6245
+Q5161852,hotel,Cecil Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Cecil%20Hotel%2C%20L.A.jpg,,Los Angeles,34.0442,-118.251
+Q5167528,hotel,Coolot Company Building,http://commons.wikimedia.org/wiki/Special:FilePath/Coolot%20Building%20%28Sacramento%2C%20CA%29.jpg,,California,38.580833,-121.494722
+Q5167816,hotel,"The Standard, East Village",http://commons.wikimedia.org/wiki/Special:FilePath/Cooper%20Square%20Hotel%2025%20Cooper%20Square.jpg,,Manhattan,40.72791,-73.99089
+Q5168635,hotel,Copley Square Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Copley%20Exterior2009.jpg,http://www.copleysquarehotel.com,Boston,42.3484,-71.0787
+Q5168743,hotel,Copper King Mansion,http://commons.wikimedia.org/wiki/Special:FilePath/Copper%20King%20Mansion%20%28Butte%29%202002-05.jpg,,Montana,46.014444,-112.539167
+Q5168763,hotel,Copper Queen Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Copper%20Queen%20Hotel.jpg,http://www.copperqueen.com/,Cochise County,31.4424,-109.914
+Q5173437,hotel,Corvallis Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Corvallis%20Hotel%20Building.jpg,,Oregon,44.563056,-123.258889
+Q5178791,hotel,Courtyard Nashville Downtown,http://commons.wikimedia.org/wiki/Special:FilePath/Courtyard%20Nashville%20Downtown.jpg,,Nashville,36.1637,-86.7785
+Q5180164,hotel,Cozzens House Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Coggins%20House%2C%20Omaha%2C%20by%20Jackson%20Bros..jpg,,Omaha,41.2563,-95.9279
+Q5184378,hotel,Crescent Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Crescent%20Hotel%2C%20Eureka%20Springs%2C%20Arkansas%20-%20circa%201890s.jpg,https://www.crescent-hotel.com/,Eureka Springs,36.4084,-93.7373
+Q5188352,hotel,Town House,http://commons.wikimedia.org/wiki/Special:FilePath/Town%20House%20Hotel.JPG,https://www.townhousekck.com/,Kansas City,39.1165,-94.6263
+Q5189429,hotel,Crown Plaza Key West – La Concha,http://commons.wikimedia.org/wiki/Special:FilePath/La%20Concha%20Key%20West%20FL1.jpg,https://www.laconchakeywest.com/,Key West,24.5561,-81.8033
+Q5189543,hotel,Crowne Plaza Times Square,http://commons.wikimedia.org/wiki/Special:FilePath/Crowne%20Plaza%20Hotel%20Times%20Square%2020100618.JPG,https://www.ihg.com/crowneplaza/hotels/us/en/new-york/nycmh/hoteldetail,Manhattan,40.7606,-73.985
+Q5189544,hotel,DoubleTree by Hilton Hotel Billings,http://commons.wikimedia.org/wiki/Special:FilePath/Crowne%20Plaza.JPG,,Montana,45.78215,-108.50368
+Q5191220,hotel,Crystal Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Crystal%20Hotel%20%28Portland%2C%20Oregon%29.jpg,http://www.crystalhotels.com.tr,Portland,45.522778,-122.683389
+Q5196190,hotel,Cushing Hotel,http://commons.wikimedia.org/wiki/Special:FilePath/Cushing%20Hotel.jpg,,Afton,44.901111,-92.782778
+Q5211418,hotel,Dallas Statler Hilton,http://commons.wikimedia.org/wiki/Special:FilePath/Statler-Hilton-Block-Panora.jpg,http://thestatlerdallas.com/,Dallas,32.7806,-96.7949
+Q5212691,hotel,Dammon Round Barn,http://commons.wikimedia.org/wiki/Special:FilePath/Dammon%20Round%20Barn%202.jpg,,Wacouta Township,44.546944,-92.46
+Q5230244,hotel,Davenport House,http://commons.wikimedia.org/wiki/Special:FilePath/Davenport%20Hotel%20Michigan.JPG,,Michigan,42.063611,-84.115278
+Q238990,museum,United States Holocaust Memorial Museum,http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%20Holocaust%20Memorial%20Museum.jpeg,https://www.ushmm.org/,"Washington, D.C.",38.886666666,-77.0325
+Q254118,museum,Holocaust Museum LA,http://commons.wikimedia.org/wiki/Special:FilePath/Eastwards%20View%20of%20the%20New%20Building.JPG,http://www.lamoth.org/,Los Angeles,34.0639,-118.369
+Q255559,museum,Amon Carter Museum of American Art,http://commons.wikimedia.org/wiki/Special:FilePath/Amon%20Carter%20Museum%20of%20American%20Art%2C%20facade.jpg,https://www.cartermuseum.org/,Fort Worth,32.747867,-97.368447
+Q259242,museum,Huntington Beach State Park,http://commons.wikimedia.org/wiki/Special:FilePath/Huntington%20beach%20state%20park%20salt%20marsh.jpg,https://southcarolinaparks.com/huntingtonbeach/,Georgetown County,33.5139,-79.0611
+Q263750,museum,"Long Island Museum of American Art, History, and Carriages",http://commons.wikimedia.org/wiki/Special:FilePath/Long%20Island%20Museum%20of%20American%20Art%2C%20History%2C%20and%20Carriages.png,http://www.longislandmuseum.org/,Stony Brook,40.9119,-73.1417
+Q280171,museum,Ernest Hemingway House,http://commons.wikimedia.org/wiki/Special:FilePath/Hemingwayhouse.jpg,http://www.hemingwayhome.com/,Key West,24.551111,-81.800833
+Q318594,museum,Museum of Tolerance,http://commons.wikimedia.org/wiki/Special:FilePath/Museum%20of%20Tolerance%2C%20Los%20Angeles%2C%20March%202008.JPG,http://www.museumoftolerance.com,California,34.053636111,-118.401680555
+Q386481,museum,Jimmy Carter Library and Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Carter%20lib1.JPG,https://www.jimmycarterlibrary.gov/,Fulton County,33.766339,-84.356308
+Q403080,museum,Wadsworth Atheneum Museum of Art,http://commons.wikimedia.org/wiki/Special:FilePath/Wadsworth%20Atheneum%2C%20Hartford%2C%20Connecticut.JPG,https://www.thewadsworth.org/,Hartford,41.763711,-72.673086
+Q428281,museum,Alaska Aviation Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Alaskan%20Airways%20Stearman.jpg,https://alaskaairmuseum.org/,Alaska,61.1778,-149.971
+Q465765,museum,Museum of the Moving Image,http://commons.wikimedia.org/wiki/Special:FilePath/MOMI.jpg,https://www.movingimage.org,Astoria,40.75621111,-73.92396389
+Q474665,museum,Longfellow House–Washington's Headquarters National Historic Site,http://commons.wikimedia.org/wiki/Special:FilePath/Longfellow%20National%20Historic%20Site%2C%20Cambridge%2C%20Massachusetts.JPG,https://www.nps.gov/long/index.htm,Cambridge,42.3767,-71.1264
+Q478839,museum,Arizona-Sonora Desert Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Saguaro.jpg,http://www.desertmuseum.org,Arizona,32.243888888,-111.168055555
+Q490825,museum,Evergreen Aviation & Space Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Evergreen%20Aviation%20Museum.jpg,https://noramaerospace.org/,McMinnville,45.2036,-123.143
+Q499902,museum,Parrish Art Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Parrish%20Art%20Museum.jpg,https://parrishart.org/,Suffolk County,40.9043,-72.3661
+Q525981,museum,Harry S. Truman Presidential Library and Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Harry%20S.%20Truman%20Presidential%20Library%20and%20Museum.jpg,https://www.trumanlibrary.gov/,Independence,39.103333333,-94.420833333
+Q537195,museum,Laogai Museum,http://commons.wikimedia.org/wiki/Special:FilePath/DalaiLama%20LRF2009.jpg,http://laogai.org/,"Washington, D.C.",38.9067,-77.0276
+Q538275,museum,National Constitution Center,http://commons.wikimedia.org/wiki/Special:FilePath/National%20Constitution%20Center-exterior.jpg,https://constitutioncenter.org/,Pennsylvania,39.9534,-75.1489
+Q568036,museum,Jewish Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/J%20Child%20Museum%20J11%20jeh.JPG,http://www.jcm.museum,Eastern Parkway,40.668889,-73.941917
+Q901463,museum,Boston Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Boston%20Childrens%20Museum.jpg,https://bostonchildrensmuseum.org,Boston,42.3516,-71.0498
+Q1590419,museum,Japanese American National Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20American%20National%20Museum%20%28Los%20Angeles%29%20August%202024.JPG,https://www.janm.org/,Los Angeles,34.0496,-118.239
+Q2425363,museum,Eden Musée,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Eden%20Musee.jpg,,Manhattan,40.742638888,-73.9915
+Q2963300,museum,Chicago Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Chicago%20Children%27s%20Museum%20exterior%20in%20May%202016.jpg,https://www.chicagochildrensmuseum.org/,Illinois,41.8914,-87.6092
+Q3307878,museum,Miami Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Miami%20Children%27s%20Museum.jpg,http://miamichildrensmuseum.org,MacArthur Causeway,25.784698,-80.176519
+Q4647610,museum,Gilbert House Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Gilbert%20House%20Salem%20Oregon.JPG,https://acgilbert.org/,Salem,44.945,-123.041111
+Q4668622,museum,Above & Beyond Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/ChildrensDiscoveryMuseumSheboygan.jpg,http://abkids.org/,Sheboygan,43.7542,-87.7131
+Q4948003,museum,Boston Museum,http://commons.wikimedia.org/wiki/Special:FilePath/1841%20BostonMuseum%20Gleasons.png,,Boston,42.3586,-71.0596
+Q4974268,museum,Bronzeville Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/20100409%20Bronzeville%20Childrens%20Museum.jpg,http://www.bronzevillechildrensmuseum.com/,Illinois,41.7254,-87.5849
+Q4974780,museum,Brooklyn Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Brooklyn%20Children%27s%20Museum.JPG,https://www.brooklynkids.org,New York,40.6745,-73.9439
+Q5098167,museum,Children's Museum of Denver,http://commons.wikimedia.org/wiki/Special:FilePath/Wide%20angle%20high%20res.jpg,https://www.mychildsmuseum.org/,Colorado,39.749,-105.017
+Q5098168,museum,Children's Museum of Cleveland,http://commons.wikimedia.org/wiki/Special:FilePath/Children%27s%20Museum%20of%20Cleveland%20exterior.jpg,https://cmcleveland.org/,Cleveland,41.5033,-81.6117
+Q5098174,museum,Children's Museum of Maine,http://commons.wikimedia.org/wiki/Special:FilePath/CMTM%20exterior%20006.jpg,http://www.kitetails.org/,Maine,43.6544,-70.2617
+Q5098176,museum,Children's Museum of Houston,http://commons.wikimedia.org/wiki/Special:FilePath/HoustonChildrenMuseum.JPG,http://www.cmhouston.org,Texas,29.7227,-95.385
+Q5098179,museum,Children's Museum of Oak Ridge,http://commons.wikimedia.org/wiki/Special:FilePath/Cemesto-orcm-tn1.jpg,http://www.childrensmuseumofoakridge.org,Tennessee,36.0229,-84.2722
+Q5098181,museum,Children's Museum of Richmond,http://commons.wikimedia.org/wiki/Special:FilePath/Children%27s%20Museum%20of%20Richmond.jpg,https://www.childrensmuseumofrichmond.org/,Richmond,37.5624,-77.4671
+Q5098190,museum,Children's Museum of the Arts,http://commons.wikimedia.org/wiki/Special:FilePath/CMA%20103%20Charlton%20Street%20jeh.jpg,http://cmany.org,Manhattan,40.7275,-74.0081
+Q5281967,museum,Discovery Science Place,http://commons.wikimedia.org/wiki/Special:FilePath/Predator%20Exhibit%20at%20DSP%20Tyler%2C%20Texas.jpg,http://www.discoveryscienceplace.org,Tyler,32.3534,-95.3009
+Q5883025,museum,Hollywood Wax Museum,http://commons.wikimedia.org/wiki/Special:FilePath/HollywoodWaxMuseum%2001.jpg,https://www.hollywoodwaxmuseum.com/,California,34.102,-118.338
+Q6002707,museum,Children's Museum of Atlanta,http://commons.wikimedia.org/wiki/Special:FilePath/Children%27s%20Museum%20of%20Atlanta.jpg,http://www.childrensmuseumatlanta.org/,Georgia,33.7621,-84.3915
+Q6404885,museum,KidsQuest Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/KidsQuest%20Children%27s%20Museum%202.jpg,https://www.kidsquestmuseum.org/,Washington,47.5733,-122.173
+Q6405032,museum,Kidspace Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Kidspace%20Children%27s%20Museum.jpg,http://www.kidspacemuseum.org/,Pasadena,34.1553,-118.164
+Q6426019,museum,Kohl Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/July%2023%202008%20024%20Kohl.jpg,http://www.kohlchildrensmuseum.org/,Glenview,42.0936,-87.826
+Q6544071,museum,Lied Discovery Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Smith%20Center%20for%20the%20Performing%20Arts%20%26%20DISCOVERY%20Children%27s%20Museum.jpg,https://www.discoverykidslv.org/,Las Vegas,36.1689,-115.152
+Q6726337,museum,Madame Tussauds Hollywood,http://commons.wikimedia.org/wiki/Special:FilePath/Madame%20Tussauds%20Hollywood%20July%202023.JPG,https://www.madametussauds.com/hollywood/,Hollywood,34.10183,-118.34157
+Q6727907,museum,Madison Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Madison%20Children%27s%20Museum.jpg,http://www.madisonchildrensmuseum.org,Madison,43.0769,-89.3844
+Q6868186,museum,Minnesota Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Mnchildrensmuseum.jpg,https://mcm.org/,Saint Paul,44.9479,-93.0968
+Q6926890,museum,Movieland Wax Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Movieland%20Wax%20Museum%20Postcard%20%2852151994685%29.jpg,,Buena Park,33.8512,-117.999
+Q6941084,museum,Museum of the Great Plains,http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Plains%20Museum%20%28Lawton%2C%20Oklahoma%29.jpg,http://discovermgp.org,Oklahoma,34.6181,-98.3981
+Q7204253,museum,Please Touch Museum,http://commons.wikimedia.org/wiki/Special:FilePath/MemorialHallPhila03.jpg,https://www.pleasetouchmuseum.org/,Philadelphia,39.9795,-75.2092
+Q7231894,museum,Portland Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Pdx%20washpark%20childrensmuseum%20entrance.jpeg,http://www.portlandcm.org/,Oregon,45.5085,-122.718
+Q7611132,museum,Stepping Stones Museum for Children,http://commons.wikimedia.org/wiki/Special:FilePath/NorwalkCTSteppingStonesMuseum4Chldrn09052007.JPG,http://www.steppingstonesmuseum.org,Connecticut,41.11,-73.4179
+Q7730314,museum,The Discovery Museums,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Children%27s%20Discovery%20Museum%2C%20South%20Acton%20MA.jpg,https://www.discoveryacton.org/,Massachusetts,42.3636,-71.134
+Q7954027,museum,WOW! Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/WOW%20Childrens%20Museum%20%2844111932564%29.jpg,http://wowchildrensmuseum.org/,Colorado,39.999,-105.089
+Q8031784,museum,Wonder Works,http://commons.wikimedia.org/wiki/Special:FilePath/Wonder%20Works.jpg,http://www.wonder-works.org,Illinois,41.908888888,-87.787222222
+Q8076357,museum,¡Explora! Science Center and Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Explora%20outside.jpg,http://www.explora.us,New Mexico,35.097294,-106.664409
+Q14706955,museum,Mid-Hudson Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Mid-Hudson%20Children%27s%20Museum.jpg,http://mhcm.org/,New York,41.7086,-73.9389
+Q14715440,museum,Children's Museum in Easton,http://commons.wikimedia.org/wiki/Special:FilePath/Childrens%20Museum%20in%20Easton%2C%20North%20Easton%20MA%2C%20USA%20%E2%80%94%202018.jpg,http://www.childrensmuseumineaston.org/,Easton,42.0669,-71.1025
+Q15209674,museum,Children's Museum of Pittsburgh,http://commons.wikimedia.org/wiki/Special:FilePath/Children%27s%20Museum%20of%20Pittsburgh.jpg,http://www.pittsburghkids.org/,Pittsburgh,40.4529,-80.0064
+Q15961566,museum,The Thinkery,http://commons.wikimedia.org/wiki/Special:FilePath/The%20thinkery%20austin%202014.jpg,http://thinkeryaustin.org/,Austin,30.2975,-97.705
+Q16304808,museum,USS LCS(L)(3)-102,http://commons.wikimedia.org/wiki/Special:FilePath/USS%20LCS%28L%29%20102.jpg,,Vallejo,38.106128,-122.273799
+Q16736420,museum,Explore & More Children's Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Explore%20%26%20More%20Children%27s%20Museum%2C%20Buffalo%2C%20New%20York%20-%2020191014.jpg,http://www.exploreandmore.org/default.aspx,Buffalo,42.877901,-78.878069
+Q20712582,museum,Madame Tussauds San Francisco,http://commons.wikimedia.org/wiki/Special:FilePath/Madame%20Tussauds%20San%20Francisco%20%281%29.jpg,https://www.madametussauds.com/san-francisco/en/,San Francisco,37.808186,-122.41481
+Q21903395,museum,Madame Tussauds New York,http://commons.wikimedia.org/wiki/Special:FilePath/0480New%20York%20City%20Madame%20Tussauds%20crop.jpg,https://www.madametussauds.com/new-york/en/,New York City,40.7565,-73.98883333
+Q23018405,museum,USS LCI(L)-713,http://commons.wikimedia.org/wiki/Special:FilePath/LCI-713%202012%20-%20Portland%20Oregon.jpg,,Portland,45.61555556,-122.67916667
+Q24063845,museum,Hollywood Wax Museum Pigeon Forge,http://commons.wikimedia.org/wiki/Special:FilePath/Hollywood%20Wax%20Museum%20-%20Pigeon%20Forge%2C%20TN.jpg,http://hollywoodwaxentertainment.com/,Pigeon Forge,35.815204,-83.577461
+Q24534686,museum,Hollywood Wax Museum Branson,http://commons.wikimedia.org/wiki/Special:FilePath/Hollywood%20Wax%20Museum%20-%20Branson%20MO.jpg,http://hollywoodentertainmentcenter.com/,Branson,36.637625,-93.27694
+Q27308329,museum,Madame Tussauds Las Vegas,http://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20%28Jan%202014%29%2012.JPG,https://www.madametussauds.com/las-vegas/en/,Las Vegas,,
+Q43082729,museum,The Griot Museum of Black History,http://commons.wikimedia.org/wiki/Special:FilePath/Griot%20Museum%20of%20Black%20History%20and%20Culture2.jpg,https://www.thegriotmuseum.com/,Missouri,38.65289,-90.209271
+Q54958284,museum,BibleWalk,http://commons.wikimedia.org/wiki/Special:FilePath/BibleWalk%202.jpg,https://www.biblewalk.us/,Mansfield,40.785861,-82.496707
+Q99744058,museum,John Brown Wax Museum,http://commons.wikimedia.org/wiki/Special:FilePath/John%20Brown%20Wax%20Museum%2C%20Harpers%20Ferry%2C%20WV%20IMG%204669.JPG,,Harpers Ferry,39.323758,-77.731269
+Q116854005,museum,Madame Tussauds Orlando,http://commons.wikimedia.org/wiki/Special:FilePath/Madame%20Tussauds%20Orlando%20photo%20station.jpg,,Orlando,28.443772134,-81.468596576
+Q139800463,museum,PCF-1,http://commons.wikimedia.org/wiki/Special:FilePath/Swift%20boat%20PCF-1.jpg,,"Washington, D.C.",38.871742442,-76.994326466
+Q276811,museum,Blackhawk Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Blackhawk%20Museum%2001.jpg,https://blackhawkmuseum.org/,Danville,37.801254,-121.917555
+Q600395,museum,Walter P. Chrysler Museum,http://commons.wikimedia.org/wiki/Special:FilePath/1915-dodge-archives.jpg,http://wpchryslermuseum.org/,Michigan,,
+Q638272,museum,Oklahoma City National Memorial,http://commons.wikimedia.org/wiki/Special:FilePath/Oklahoma%20City%20National%20Memorial%204910.jpg,https://www.nps.gov/okci/index.htm,Oklahoma City,35.472778,-97.517222
+Q657415,museum,Cleveland Museum of Art,http://commons.wikimedia.org/wiki/Special:FilePath/Springtime%20art%20museum.jpg,https://www.clevelandart.org/,Cleveland,41.508888888,-81.611666666
+Q676968,museum,Museum of Us,http://commons.wikimedia.org/wiki/Special:FilePath/San%20Diego%20Museum%20of%20Man%2001.jpg,https://museumofus.org,California,32.7314,-117.152
+Q680685,museum,Country Music Hall of Fame and Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Country%20music%20hall%20of%20fame2.jpg,https://countrymusichalloffame.org,Nashville,36.158333333,-86.776111111
+Q689196,museum,Armstrong Air and Space Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Wapakoneta-ohio-armstrong-air-and-space-museum.jpg,https://www.armstrongmuseum.org/,Ohio,40.5639,-84.1711
+Q713932,museum,Arts and Industries Building,http://commons.wikimedia.org/wiki/Special:FilePath/20060327%20094632%201.jpg,https://aib.si.edu,"Washington, D.C.",38.888333333,-77.024444444
+Q738549,museum,Muhammad Ali Center,http://commons.wikimedia.org/wiki/Special:FilePath/AliCenter.jpg,http://www.alicenter.org,Louisville,38.2582,-85.7601
+Q745866,museum,Dallas Museum of Art,http://commons.wikimedia.org/wiki/Special:FilePath/Dallas%20Museum%20of%20Art%20July%202015%2001.jpg,https://dma.org/,Dallas,32.78756,-96.800893
+Q787908,museum,Automotive Hall of Fame,http://commons.wikimedia.org/wiki/Special:FilePath/Automotive%20Hall%20of%20Fame%20Dearborn.JPG,https://www.automotivehalloffame.org/,Michigan,42.3025,-83.237694444
+Q808531,museum,Barnum's American Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Barnum%27s%20American%20Museum-photo%201858.jpg,https://lostmuseum.cuny.edu,Manhattan,40.71102,-74.00852
+Q809600,museum,Fogg Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Fogg%20Art%20Museum%2C%20Harvard%20University.jpg,https://harvardartmuseums.org/,Cambridge,42.37409,-71.114358
+Q826520,museum,Q826520,http://commons.wikimedia.org/wiki/Special:FilePath/Bishop%20Museum%20front-600px.jpg,https://www.bishopmuseum.org/,Honolulu County,21.333333,-157.870617
+Q839985,museum,Museum of Jewish Heritage,http://commons.wikimedia.org/wiki/Special:FilePath/Museum%20of%20Jewish%20Heritage%20005.JPG,http://www.mjhnyc.org/,Manhattan,40.70621,-74.01875
+Q842828,museum,Asia Society,http://commons.wikimedia.org/wiki/Special:FilePath/Asia%20Society%20building%2C%20Manhattan%2C%20NY.jpg,http://www.asiasociety.org,Manhattan,,
+Q847508,museum,Worcester Art Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Mosaics%2C%20Worcester%20Art%20Museum%20-%20IMG%207439.JPG,https://www.worcesterart.org/,Worcester,42.273055555,-71.802222222
+Q847637,museum,Kansas Cosmosphere and Space Center,http://commons.wikimedia.org/wiki/Special:FilePath/Kansas%20Cosmosphere%202003.jpg,http://www.cosmo.org/,Kansas,38.0653,-97.9213
+Q1470935,museum,Motorcycle Hall of Fame,http://commons.wikimedia.org/wiki/Special:FilePath/Motorcycle%20Hall%20of%20Fame%20sign.jpg,http://hof.motorcyclemuseum.org/default.aspx,Pickerington,,
+Q1638644,museum,International Motorsports Hall of Fame,http://commons.wikimedia.org/wiki/Special:FilePath/Buck%20Baker%201957%20Chevy%20Bel%20Air%20International%20Motorsports%20Hall%20of%20Fame.jpg,http://www.motorsportshalloffame.com/,Talladega County,33.578,-86.072
+Q1949998,museum,Motorsports Hall of Fame of America,http://commons.wikimedia.org/wiki/Special:FilePath/Hall%20of%20Heroes%20June%202019.jpg,http://www.mshf.com,Daytona Beach,29.18555556,-81.06944444
+Q2358105,museum,Petersen Automotive Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Petersen%20Automotive%20Museum.jpg,https://www.petersen.org/,Los Angeles,34.062472,-118.361034
+Q2402054,museum,Lane Motor Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Lane%20Motor%20Museum.jpg,http://www.lanemotormuseum.org,Nashville,36.1403,-86.7342
+Q2586049,museum,"Wiscasset, Waterville and Farmington Railway",http://commons.wikimedia.org/wiki/Special:FilePath/WWFR%209%20with%20freight%20train%202023-10-28.jpg,http://www.wwfry.org,Maine,,
+Q2962363,museum,Durango and Silverton Narrow Gauge Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/Durango%20and%20Silverton%20Narrow%20Gauge%20Railroad%201.jpg,,Colorado,37.269207611,-107.882566488
+Q2982865,museum,Mullin Automotive Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20-%20Retromobile%202012%20-%20Delahaye%20type%20165%20cabriolet%20-%201939%20-%20001.jpg,,Oxnard,34.183,-119.164
+Q3030511,museum,Disneyland Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/Disneyland%20200707%20Number5%20NewOrleansSquare.jpg,https://disneyland.disney.go.com/attractions/disneyland/disneyland-railroad/,California,33.8099,-117.919
+Q3495278,museum,"St. Louis, Iron Mountain and Southern Railway Company",http://commons.wikimedia.org/wiki/Special:FilePath/St.%20Louis%2C%20Iron%20Mountain%20and%20Southern%20Railway%20Locomotive%20635.jpg,http://www.slimrr.com,United States,,
+Q3514855,museum,Tampa Bay Automobile Museum,http://commons.wikimedia.org/wiki/Special:FilePath/TampaAutomobileMuseum.jpg,http://tbauto.org/,Florida,27.8524,-82.6789
+Q3521242,museum,The Henry Ford,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Henry%20Ford%202011.jpg,https://www.thehenryford.org/,Dearborn,42.303583,-83.234078
+Q3565647,museum,Walt Disney World Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/WDWRR%20-%20Lilly%20Belle%202016%201.jpg,https://disneyworld.disney.go.com/attractions/magic-kingdom/walt-disney-world-railroad/,Florida,28.4163896,-81.5811922
+Q3629435,museum,Auburn Cord Duesenberg Automobile Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Auburn%20Cord%20Duesenberg%20Museum%202004.jpg,http://acdmuseum.org,Auburn,41.355833,-85.057222
+Q3634739,museum,Barber Vintage Motorsports Museum,http://commons.wikimedia.org/wiki/Special:FilePath/002%20Barber%20Vintage%20Motorsports%20Museum.jpg,https://www.barbermuseum.org/,Birmingham,33.5336839,-86.61449
+Q3867023,museum,Waterfront Red Car,http://commons.wikimedia.org/wiki/Special:FilePath/Pacific%20Electric%20Replica%20501%20in%20San%20Pedro.jpg,,Los Angeles,,
+Q3928119,museum,R. E. Olds Transportation Museum,http://commons.wikimedia.org/wiki/Special:FilePath/R%20E%20Olds%20Transportation%20Museum%20Lansing.jpg,https://www.reoldsmuseum.org/,Michigan,42.7313,-84.5481
+Q3976248,museum,Studebaker National Museum,http://commons.wikimedia.org/wiki/Special:FilePath/South-bend-studebaker-museum-new.jpg,http://www.studebakermuseum.org,South Bend,41.67475,-86.261913
+Q4667780,museum,Abilene and Smoky Valley Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/Abilene%20Kansas%20Rock%20Island%20Depot.jpg,,Kansas,38.9108,-97.2122
+Q4690839,museum,Afton Station Packard Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Afton%20Station.jpg,http://www.postcardsfromtheroad.net,Oklahoma,36.6944,-94.9621
+Q4742518,museum,America's Car Museum,http://commons.wikimedia.org/wiki/Special:FilePath/LeMay%20Museum%20%28Tacoma%2C%20Washington%29.JPG,http://www.lemaymuseum.org,Washington,47.236,-122.43
+Q4742578,museum,America's Packard Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Packard%20museum%20snoke.JPG,http://www.americaspackardmuseum.org/,Ohio,39.7536,-84.1917
+Q4742783,museum,America On Wheels,http://commons.wikimedia.org/wiki/Special:FilePath/America%20on%20Wheels.JPG,http://www.americaonwheels.org,Pennsylvania,40.6156,-75.4528
+Q4796649,museum,ArtCar Museum,http://commons.wikimedia.org/wiki/Special:FilePath/ArtCarMuseum.jpg,http://www.artcarmuseum.com/,Texas,29.772111111,-95.397111111
+Q4892293,museum,Berkshire Scenic Railway Museum,http://commons.wikimedia.org/wiki/Special:FilePath/RDC%206126%20at%20Adams%20station%20%281%29%2C%20September%202022.jpg,http://www.berkshirescenicrailroad.org,Massachusetts,42.625227,-73.117057
+Q4906395,museum,Big South Fork Scenic Railway,http://commons.wikimedia.org/wiki/Special:FilePath/Big%20South%20Fork%20Scenic%20Railway.jpg,http://www.bsfsry.com/,McCreary County,36.6986,-84.4764
+Q4920959,museum,Black Hills Central Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/Hill%20City%2C%20SD%2057745%2C%20USA%20-%20panoramio%20%283%29.jpg,https://www.1880train.com/,South Dakota,43.9322,-103.573
+Q4941166,museum,"Bonanzaville, USA",http://commons.wikimedia.org/wiki/Special:FilePath/Bonanzaville%20USA.jpg,,West Fargo,46.876111111,-96.928055555
+Q5019879,museum,Calico and Odessa Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/Calico%20Ghost%20Town%202004%20b.jpg,,California,34.949166666,-116.863888888
+Q5020253,museum,California Automobile Museum,http://commons.wikimedia.org/wiki/Special:FilePath/California%20Automobile%20Museum%20entrance.jpg,http://www.calautomuseum.org/,Sacramento,38.5703872,-121.5117473
+Q5020931,museum,California Route 66 Museum,http://commons.wikimedia.org/wiki/Special:FilePath/California%20Route%2066%20Museum%20in%20Victorville%2C%20California.jpg,,California,34.537222222,-117.294166666
+Q5034677,museum,Cape Cod Central Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/Cape%20Cod%20Central%20Railroad%20No%20.%201501.jpg,http://www.capetrain.com/,,41.706944444,-70.374166666
+Q5049180,museum,Cass Scenic Railroad State Park,http://commons.wikimedia.org/wiki/Special:FilePath/Cass%20Scenic%20Railroad%20State%20Park%20-%20Heisler%206%20and%20Shay%2011.jpg,https://wvstateparks.com/park/cass-scenic-railroad-state-park/,Pocahontas County,38.3967,-79.9147
+Q5061910,museum,Central Texas Museum of Automotive History,http://commons.wikimedia.org/wiki/Special:FilePath/1922-nash-001.jpg,http://www.ctmah.org,Rosanky,29.96229167,-97.30096944
+Q5071146,museum,Chandler Armory,http://commons.wikimedia.org/wiki/Special:FilePath/Chandler%20Armory.jpg,,Chandler,35.709722,-96.877778
+Q5155119,museum,Como-Harriet Streetcar Line,http://commons.wikimedia.org/wiki/Special:FilePath/TRCT%201300.jpg,https://trolleyride.org/como-harriet-streetcar,Minneapolis,44.933031,-93.308203
+Q5182820,museum,Crawford Auto-Aviation Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Crawford%20Auto%20Museum%20entrance.jpg,http://www.wrhs.org/Properties/category-46b88fa0-b13e-400b-838a-b6616bcffb4f.aspx,Ohio,41.5131,-81.6112
+Q5185837,museum,Cripple Creek and Victor Narrow Gauge Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/Cripple%20Creek%20and%20Victor%20N.G.R.R.jpg,,Teller County,38.747785,-105.172204
+Q5243590,museum,Daytona 500 Experience,http://commons.wikimedia.org/wiki/Special:FilePath/Petty%20200th%20win%20replica%20car%20at%20Daytona%20USA.jpg,,Florida,29.1918,-81.07
+Q5292658,museum,Don Garlits Museum of Drag Racing,http://commons.wikimedia.org/wiki/Special:FilePath/Garlits%20museum%20mdr%20pano01.jpg,https://garlits.com/,Florida,29.0218,-82.1529
+Q5316317,museum,Durbin and Greenbrier Valley Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/Engine%20Three%20at%20Chestnut%20Hollow%20Bend%20-%20Durbin%20and%20Greenbrier%20Valley%20Railroad%20-%20West%20Virginia%2C%20USA%20-%2016%20May%202013.jpg,http://mountainrailwv.com/,West Virginia,38.5449,-79.8319
+Q5327951,museum,East Broad Top Railroad and Coal Company,http://commons.wikimedia.org/wiki/Special:FilePath/East%20Broad%20Top%202-8-2%2012%20Railfan%20Special%20east%20of%20Rockhill%20Furnace%2C%20PA%20on%20February%2022%2C%201969%2002%20%2824465379452%29.jpg,,Pennsylvania,,
+Q5335725,museum,Edaville Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/EdavilleMainEntrance.jpg,http://www.edaville.com,South Carver,41.8459,-70.7728
+Q5365702,museum,Elliott Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Stuart%20FL%20Elliott%20Museum01.jpg,http://www.elliottmuseumfl.org,Florida,27.214,-80.1777
+Q5368336,museum,Elwood Haynes Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Elwood%20Haynes%20House.jpg,http://www.cityofkokomo.org/departments/elwood_haynes_museum.php,Indiana,40.463056,-86.136944
+Q5411232,museum,Eureka Springs and North Arkansas Railway,http://commons.wikimedia.org/wiki/Special:FilePath/201locowkb1.jpg,http://www.esnarailway.com/,,36.413573,-93.733871
+Q5448874,museum,Fillmore and Western Railway,http://commons.wikimedia.org/wiki/Special:FilePath/Fillmore%20and%20Western%20Railway%20F-7s.jpg,http://www.fwry.com/,Fillmore,34.399,-118.911
+Q5470379,museum,Forney Transportation Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Denver%20transport%20museum%20002.JPG,http://www.forneymuseum.org/,Colorado,39.7771,-104.971
+Q5558180,museum,National Automobile Museum,http://commons.wikimedia.org/wiki/Special:FilePath/National%20Automobile%20Museum%20Reno.jpg,http://www.automuseum.org/,Nevada,39.525712,-119.808576
+Q5562522,museum,Gilmore Car Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Checker%20A-11%20Taxicab%201982.jpg,https://www.gilmorecarmuseum.org/,Hickory Corners,42.4405,-85.4216
+Q5684565,museum,Hawaiian Railway Society,http://commons.wikimedia.org/wiki/Special:FilePath/Hawaiian%20Railway%20Society%2001.jpg,http://www.hawaiianrailway.com/,Honolulu County,21.3319,-158.046
+Q5692861,museum,Heartland Museum of Military Vehicles,http://commons.wikimedia.org/wiki/Special:FilePath/Heartland%20Museum%20of%20Military%20Vehicles.jpg,https://www.heartlandmuseum.com/,Nebraska,40.7428,-99.7371
+Q5695724,museum,Heber Valley Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/HEBER%20VALLEY%20RAIL%20ROAD-UTAH%2009.jpg,http://www.hebervalleyrr.org/,Wasatch County,40.5019,-111.425
+Q5738956,museum,Heritage Museums and Gardens,http://commons.wikimedia.org/wiki/Special:FilePath/Labyrinth%2C%20Heritage%20Museum%20and%20Gardens%2C%20Sandwich%2C%20Massachusetts%2C%20US%20%28PPL1-Corrected%29%20julesvernex2.jpg,http://heritagemuseumsandgardens.org/,Massachusetts,41.7477,-70.5055
+Q6023901,museum,Indianapolis Motor Speedway Museum,http://commons.wikimedia.org/wiki/Special:FilePath/IMS%20HOF%20Museum.jpg,http://www.indyracingmuseum.org/,Speedway,39.7902,-86.2306
+Q6492002,museum,Larz Anderson Auto Museum,http://commons.wikimedia.org/wiki/Special:FilePath/LarzAAutoM.JPG,https://larzanderson.org/,Boston,42.3106,-71.1348
+Q6511106,museum,Lebanon Mason Monroe Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/Lebanon%20train%20station%20at%20Broadway%20and%20South.jpg,,Warren County,39.432018,-84.208197
+Q6750257,museum,The Broadmoor Manitou and Pikes Peak Cog Railway,http://commons.wikimedia.org/wiki/Special:FilePath/Pikes-Peak-Cog-Railway%20Train-24%202012-10-21.JPG,https://www.cograilway.com/,El Paso County,38.856,-104.931
+Q6921257,museum,Mount Hood Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/MtHoodRailroad%20Spring.jpg,,Hood River County,45.6561,-121.5084
+Q6923135,museum,Mount Rainier Scenic Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/MRSR.Mt.Rainier.jpg,,Washington,46.7653,-122.194
+Q6941038,museum,National Museum of Transportation,http://commons.wikimedia.org/wiki/Special:FilePath/Frisco%20and%20the%20Zephyr.jpg,https://tnmot.org/,St. Louis,38.571572,-90.462048
+Q6971870,museum,National Corvette Museum,http://commons.wikimedia.org/wiki/Special:FilePath/National%20Corvette%20Museum%2C%20KY.JPG,http://corvettemuseum.com/,Bowling Green,37.00416667,-86.375
+Q7056710,museum,North Shore Scenic Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/NSSR%20Train.JPG,https://duluthtrains.com,Minnesota,46.781388888,-92.103611111
+Q7235952,museum,Poway–Midland Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/Poway%20midland%20railroad.jpg,http://www.powaymidlandrr.org/,Poway,32.9703,-117.037
+Q7335228,museum,Rio Grande Scenic Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/Rio%20Grande%20Scenic%20Railroad%202011.jpg,,Colorado,37.4667,-105.865
+Q7338643,museum,Riverside and Great Northern Railway,http://commons.wikimedia.org/wiki/Special:FilePath/15-inch%20gauge%204-4-2%20locomotive.jpg,,Wisconsin,43.641833333,-89.790444444
+Q572548,museum,Anthology Film Archives,http://commons.wikimedia.org/wiki/Special:FilePath/Anthology%20Film%20Archives.jpg,https://www.anthologyfilmarchives.org/,Manhattan,40.7247,-73.9901
+Q901533,museum,Tenement Museum,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Tenement%20Museum%20%2851624759160%29.jpg,http://www.tenement.org/,Manhattan,40.7185,-73.990139
+Q913672,museum,San Francisco Museum of Modern Art,http://commons.wikimedia.org/wiki/Special:FilePath/San%20Francisco%20Museum%20of%20Modern%20Art.jpg,https://www.sfmoma.org,San Francisco,37.785718,-122.401051
+Q924109,museum,Pacific Pinball Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Pinball%203web.jpg,https://www.pacificpinball.org/,California,37.7737,-122.277
+Q964035,museum,Computer History Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Computer%20history%20museum.jpg,https://computerhistory.org/,Mountain View,37.4144,-122.077
+Q975521,museum,20th Century Technology Museum,http://commons.wikimedia.org/wiki/Special:FilePath/20th%20Century%20Technology%20Museum%20Wharton.jpg,http://www.20thcenturytech.com/,Texas,29.3093,-96.1004
+Q977015,museum,Phoenix Art Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Main%20entrance%20to%20Phoenix%20Art%20Museum%20-%2019%20June%202008.jpg,http://www.phxart.org/,Phoenix,33.466749,-112.072655
+Q993553,museum,National Statuary Hall,http://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20USCapitol%20-%20National%20Statuary%20Hall%20-%20U.S.%20Capitol.jpg,,,38.8897,-77.0091
+Q998003,museum,Old State Capitol State Historic Site,http://commons.wikimedia.org/wiki/Special:FilePath/Etc%20450.jpg,https://dnrhistoric.illinois.gov/experience/sites/central/old-capitol.html,Springfield,39.8011,-89.6486
+Q1033493,museum,California State Indian Museum,http://commons.wikimedia.org/wiki/Special:FilePath/California%20State%20Indian%20Museum%202006-1.JPG,http://www.parks.ca.gov/?page_id=486,California,38.5728,-121.471
+Q1043967,museum,Carnegie Museum of Art,http://commons.wikimedia.org/wiki/Special:FilePath/Carnegie%20Museum%20of%20Art.JPG,http://www.cmoa.org,Pittsburgh,40.4437,-79.949
+Q1059456,museum,New York Historical,http://commons.wikimedia.org/wiki/Special:FilePath/170%20Central%20Park%20West%20%28New%20York%20Historical%20Society%29%20by%20David%20Shankbone.jpg,http://www.nyhistory.org/,Manhattan,40.779166666,-73.974166666
+Q1067376,museum,California Science Center,http://commons.wikimedia.org/wiki/Special:FilePath/California%20Science%20Center.jpg,http://www.californiasciencecenter.org/,Los Angeles,34.016111111,-118.286111111
+Q1073221,museum,China Camp State Park,http://commons.wikimedia.org/wiki/Special:FilePath/China%20Camp%20247%20N%20San%20Pedro%20Rd%20San%20Rafael%20CA%203-21-2010%204-39-54%20PM.JPG,http://parks.ca.gov/?page_id=466,California,37.9992,-122.488
+Q1075141,museum,National Museum of the American Indian,http://commons.wikimedia.org/wiki/Special:FilePath/National%20Museum%20of%20the%20American%20Indian.jpg,http://www.nmai.si.edu,"Washington, D.C.",38.8883,-77.0166
+Q1090799,museum,Millennium Gate,http://commons.wikimedia.org/wiki/Special:FilePath/Millennium%20Gate%20Atlanta.jpg,https://thegatemuseum.org/,Fulton County,33.7911,-84.3997
+Q1093592,museum,Carpenters' Hall,http://commons.wikimedia.org/wiki/Special:FilePath/CarpentersHall00.jpg,https://www.carpentershall.org/,Philadelphia,39.948138888,-75.147222222
+Q1111293,museum,Colorado Railroad Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Colorado%20Railroad%20Museum%20depot%20building.JPG,http://coloradorailroadmuseum.org/,Golden,39.7719,-105.193
+Q1128074,museum,Yuma Territorial Prison,http://commons.wikimedia.org/wiki/Special:FilePath/Yuma%20prison%20main%20guard%20tower.jpg,https://www.azstateparks.com/yuma-territorial,Arizona,32.726527777,-114.614416666
+Q1129820,museum,"Cooper Hewitt, Smithsonian Design Museum",http://commons.wikimedia.org/wiki/Special:FilePath/Cooper-Hewitt-MattFlynnAHHP.jpg,https://www.cooperhewitt.org/,Manhattan,40.78472222,-73.95805556
+Q1134188,museum,Corning Museum of Glass,http://commons.wikimedia.org/wiki/Special:FilePath/Corning%20Museum%20of%20Glass%20Exterior.JPG,http://www.cmog.org,Corning,42.1498,-77.0543
+Q1136137,museum,National September 11 Memorial & Museum,http://commons.wikimedia.org/wiki/Special:FilePath/9-11%20Memorial%20and%20Museum%20%2828815276064%29.jpg,http://www.911memorial.org/,New York City,40.711388888,-74.013611111
+Q1139325,museum,Creation Evidence Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Creation%20Evidence%20Museum.jpg,http://www.creationevidence.org/,Texas,32.23028,-97.80533
+Q1139337,museum,Creation Museum,http://commons.wikimedia.org/wiki/Special:FilePath/AIG%20museum.jpg,https://creationmuseum.org,Kentucky,39.08625,-84.783472222
+Q1140168,museum,Staten Island Museum,http://commons.wikimedia.org/wiki/Special:FilePath/SIMuseumEntrance.JPG,http://www.statenislandmuseum.org/,Staten Island,40.64436111,-74.07777778
+Q1142334,museum,Crystal Bridges Museum of American Art,http://commons.wikimedia.org/wiki/Special:FilePath/Crystal%20Bridges%20Museum%20of%20American%20Art--2012-04-12.jpg,https://crystalbridges.org/,Bentonville,36.381854,-94.202653
+Q1142661,museum,Alcatraz Federal Penitentiary,http://commons.wikimedia.org/wiki/Special:FilePath/Alcatraz%20aerial.jpg,http://www.nps.gov/alca,San Francisco,37.8269,-122.423
+Q1147168,museum,La Brea Tar Pits,http://commons.wikimedia.org/wiki/Special:FilePath/USA%20tar%20bubble%20la%20brea%20CA.jpg,https://tarpits.org,Los Angeles,34.063056,-118.355833
+Q1148837,museum,Lynn Heritage State Park,http://commons.wikimedia.org/wiki/Special:FilePath/Lynn%20Heritage%20State%20Park%20Visitors%20Center%2C%20Lynn%20MA.jpg,https://lynnmuseum.org/,Massachusetts,42.4631,-70.9442
+Q1184855,museum,Delta Blues Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Delta%20Blues%20Museum%202.jpg,http://www.deltabluesmuseum.org/,Clarksdale,34.200108,-90.573581
+Q1322466,museum,Museum of Sex,http://commons.wikimedia.org/wiki/Special:FilePath/Museum%20of%20Sex%2C%20New%20York%20City%2C%20USA.jpg,https://www.museumofsex.com/,Manhattan,40.7443,-73.987
+Q1435136,museum,Leather Archives and Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Leather%20Archives%20%26%20Museum%20entrance.jpg,https://www.leatherarchives.org/,Chicago,41.99864,-87.66828
+Q2916280,museum,Berkeley Art Museum and Pacific Film Archive,http://commons.wikimedia.org/wiki/Special:FilePath/Berkeley%20Art%20Museum%20and%20Pacific%20Film%20Archive.jpeg,http://bampfa.berkeley.edu/,Berkeley,37.870804,-122.26634
+Q3329879,museum,Hollywood Erotic Museum,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Erotic%20Museum%20%2829406269%29.jpg,http://www.theeroticmuseum.com/Them/,California,34.1,-118.333
+Q3501049,museum,studiolo di Guidobaldo da Montefeltro,http://commons.wikimedia.org/wiki/Special:FilePath/Studiolo%20from%20the%20Ducal%20Palace%20in%20Gubbio%20MET%20DT213911.jpg,,New York City,,
+Q4743510,museum,American Computer & Robotics Museum,http://commons.wikimedia.org/wiki/Special:FilePath/American%20Computer%20Museum.JPG,http://www.compustory.com,Bozeman,45.678611111,-111.040833333
+Q4789626,museum,Argo Gold Mine and Mill,http://commons.wikimedia.org/wiki/Special:FilePath/Argo%20Gold%20Mine%20%26%20Mill.jpg,http://www.historicargotours.com/,Colorado,39.7429,-105.507
+Q5020491,museum,California Film Institute,http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20Film%20Center.JPG,http://cafilm.org,San Rafael,37.973318,-122.526241
+Q5120661,museum,Cinefamily,http://commons.wikimedia.org/wiki/Special:FilePath/Cinefamily%20at%20The%20Silent%20Movie%20Theatre%2C%20Los%20Angeles%2C%20September%202024.jpg,,Los Angeles,34.0820298,-118.3615765
+Q5133096,museum,Cliffs Shaft Mine Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Cliffs%20Shaft%20Mine%202009d.jpg,,Ishpeming,46.4911,-87.6753
+Q5275702,museum,DigiBarn Computer Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Bruce%20Damer.jpg,https://www.digibarn.com/,California,39.4857,-76.6632
+Q5395415,museum,Erotic Heritage Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Erotic%20Heritage%20Museum%20Las%20Vegas.jpg,https://eroticmuseumvegas.com/,Nevada,36.1300816,-115.1746632
+Q5531450,museum,Gene Siskel Film Center,http://commons.wikimedia.org/wiki/Special:FilePath/WLS-TV%20WMVP%20Studios%20%26%20Gene%20Siskel%20Film%20Center.jpg,https://www.siskelfilmcenter.org/,Chicago,41.885,-87.6283
+Q6043501,museum,Intel Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Intel%20Museum%201.JPG,http://www.intel.com/museum/,Santa Clara,37.3879,-121.964
+Q6659053,museum,Living Computers: Museum + Labs,http://commons.wikimedia.org/wiki/Special:FilePath/Living%20Computer%20Museum%20exterior.JPG,http://www.livingcomputermuseum.org/,Seattle,47.5825,-122.335
+Q7060036,museum,Center for an Untold Tomorrow,http://commons.wikimedia.org/wiki/Special:FilePath/Nwfclogo.png,https://portlandartmuseum.org/pam-cut/,Portland,45.5178,-122.683
+Q7320905,museum,Rhode Island Computer Museum,http://commons.wikimedia.org/wiki/Special:FilePath/T3E-900t.jpg,http://www.ricomputermuseum.org/,Rhode Island,41.5785,-71.4982
+Q7727239,museum,"The Computer Museum, Boston",http://commons.wikimedia.org/wiki/Special:FilePath/Boston%2C%20Museum%20Wharf%2C%20Hood%20Milk%20Bottle.jpg,http://www.computerhistory.org/,Massachusetts,42.3518,-71.0499
+Q7762702,museum,The Screen,http://commons.wikimedia.org/wiki/Special:FilePath/The-Screen-exterior-Web.jpg,,Santa Fe,35.65542,-105.975794
+Q7768226,museum,The Tech Interactive,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Tech%20Museum%20of%20Innovation%20in%20Downtown%20San%20Jose.jpg,http://www.thetech.org,California,37.3316,-121.89
+Q8035684,museum,World Erotic Art Museum Miami,http://commons.wikimedia.org/wiki/Special:FilePath/World%20Erotic%20Art%20Museum%20entrance.jpg,http://www.weam.com/,Florida,25.7833,-80.1321
+Q14715515,museum,Harvard Film Archive,http://commons.wikimedia.org/wiki/Special:FilePath/2023-0323-Harvard-Carpenter%20Center%20for%20the%20Visual%20Arts-02-East%20view.jpg,https://harvardfilmarchive.org/,Cambridge,42.37365278,-71.11473889
+Q16983149,museum,Old Colony and Newport Scenic Railway,http://commons.wikimedia.org/wiki/Special:FilePath/OCNR84MARCH2012.JPG,http://www.ocnrr.com,Newport,41.492487,-71.3177
+Q16993269,museum,Film Streams,http://commons.wikimedia.org/wiki/Special:FilePath/Film%20Streams%20marquis.jpg,https://filmstreams.org/ruth-sokolof-theater,Omaha,41.266068365,-95.934063162
+Q18210503,museum,Bugbook Historical Computer Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Bugbook%20Museum%20display.jpeg,http://www.microcomputermuseum.com/,Floyd County,36.910891,-80.320409
+Q18217614,museum,Videogame History Museum,http://commons.wikimedia.org/wiki/Special:FilePath/National%20Videogame%20Museum%20exterior.jpg,http://nvmusa.org,Frisco,33.143998,-96.835238
+Q18857750,museum,Retro-Computing Society of Rhode Island,http://commons.wikimedia.org/wiki/Special:FilePath/Linc-8.jpg,https://rcsri.org,Providence,41.81859,-71.44606
+Q19865467,museum,Colebrookdale Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/Colebrookdale%20Railroad%20dining%20car.jpg,http://www.colebrookdalerailroad.com/,Pennsylvania,,
+Q20712278,museum,Oregon Coast Scenic Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/McCloud%20No%2025.jpg,,Tillamook County,45.5694,-123.9432
+Q20980966,museum,Museum of the Bible,http://commons.wikimedia.org/wiki/Special:FilePath/Museumofthebible-2017-11-04-exterior-front-up.jpg,https://www.museumofthebible.org/,"Washington, D.C.",38.8847222,-77.0169444
+Q55753213,museum,Salmon Creek Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/H.K.%20Porter%20No%201421%20of%20Nov%201892%20at%20Berners%20Bay%20Mining%20and%20Milling%20Co.%20%28Michael%20and%20Carolyn%20Nore%20Collection%29.jpg,,Fallon,39.505156,-118.7716662
+Q56346164,museum,Antique Vibrator Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Antique%20Vibrator%20Museum%20sign.JPG,http://antiquevibratormuseum.com/,San Francisco,37.791862,-122.420845
+Q75239748,museum,Fort Wilderness Railroad,http://commons.wikimedia.org/wiki/Special:FilePath/Fort%20Wilderness%20Resort%20-%20FWRR%20Logo.jpg,,,,
+Q100775926,museum,Mimms Museum of Technology and Art,http://commons.wikimedia.org/wiki/Special:FilePath/Computer%20Museum%20of%20America%20%2869%29.jpg,https://mimmsmuseum.org/,Roswell,34.038543,-84.3402539
+Q108611647,museum,Savoy Automobile Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Savoy%20Automobile%20Museum%20June%202022%202.jpg,https://savoymuseum.org/,Cartersville,34.2089048,-84.7974233
+Q110765408,museum,Old Car City U.S.A.,http://commons.wikimedia.org/wiki/Special:FilePath/Old%20Car%20Sale%20in%20Bartow%2C%20GA%20-%20panoramio.jpg,https://www.oldcarcityusa.com/,White,34.2695675,-84.7521363
+Q112195602,museum,Wheels of Yesteryear Vintage Auto Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Wheels%20of%20Yesteryear%20facade%20May%202022%202.jpg,http://www.wheelsofyesteryearmb.com/,South Carolina,33.745969444,-78.955541666
+Q123410016,museum,Snook's Dream Cars,http://commons.wikimedia.org/wiki/Special:FilePath/Snook%27s%20Dream%20Cars.jpg,https://www.snooksdreamcars.com/,Bowling Green,,
+Q134888207,museum,Edge Motor Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Edge%20Motor%20Museum%20from%20the%20street.jpg,https://www.edgemotormuseum.com/,Memphis,35.140182,-90.039566
+Q483592,museum,Anacostia Community Museum,http://commons.wikimedia.org/wiki/Special:FilePath/Anacostia-Museum%20B%26W.jpg,http://anacostia.si.edu/,"Washington, D.C.",38.8569,-76.9769
+Q634221,museum,Cullen Sculpture Garden,http://commons.wikimedia.org/wiki/Special:FilePath/Houston%20Cullen%20Sculpture%20Garden%2001.jpg,http://prv.mfah.org/sculpturegarden/default.asp,Houston,29.7266,-95.3906
+Q690225,museum,Minneapolis Sculpture Garden,http://commons.wikimedia.org/wiki/Special:FilePath/Minneapolis%20Sculpture%20Garden%2002.jpg,,Minneapolis,44.970278,-93.288889
+Q1337158,museum,Emile Brunel Studio and Sculpture Garden,http://commons.wikimedia.org/wiki/Special:FilePath/Emile%20Brunel%20Sculpture%20Garden%2C%20Boiceville%2C%20NY.jpg,,Olive,41.999722,-74.263889
+Q1439933,museum,Society of the Four Arts,http://commons.wikimedia.org/wiki/Special:FilePath/Society%20Of%20The%20Four%20Arts%20in%20Palm%20Beach%20Florida%20%28cropped%29.jpg,http://www.fourarts.org/,Florida,26.7064,-80.0422
+Q1620553,museum,Hirshhorn Museum and Sculpture Garden,http://commons.wikimedia.org/wiki/Special:FilePath/Hirshhorn%20Museum%20DC%202007.jpg,http://hirshhorn.si.edu/,"Washington, D.C.",38.888161,-77.022968
+Q1672708,museum,Cantor Arts Center at Stanford University,http://commons.wikimedia.org/wiki/Special:FilePath/Cantor%20Arts%20Center%20sign.JPG,https://museum.stanford.edu,California,37.432982,-122.170844
+Q1953144,museum,Laumeier Sculpture Park,http://commons.wikimedia.org/wiki/Special:FilePath/Laumeier%20Sculpture%20Park%2002.jpg,http://www.laumeiersculpturepark.org/,Missouri,38.551,-90.412
+Q1971344,museum,Donald M. Kendall Sculpture Gardens,http://commons.wikimedia.org/wiki/Special:FilePath/Moore%20reclining%20woman.JPG,https://www.pepsico.com/sculpture-gardens,New York,41.0342,-73.6908
+Q2019741,museum,DeCordova Museum and Sculpture Park,http://commons.wikimedia.org/wiki/Special:FilePath/DeCordova%2001.jpg,http://www.decordova.org/,Massachusetts,42.4311,-71.3114
+Q2483537,museum,Frederik Meijer Gardens & Sculpture Park,http://commons.wikimedia.org/wiki/Special:FilePath/Meijer%20Gardens%20Landscape%20with%20Conservatory.jpg,http://www.meijergardens.org,Michigan,42.981,-85.591
+Q2528439,museum,Storm King Art Center,http://commons.wikimedia.org/wiki/Special:FilePath/Storm%20King%20Museum%20Building%20Jul%2012.jpg,https://stormking.org/,New York,41.425063,-74.059384
+Q2855129,museum,Franklin D. Murphy Sculpture Garden,http://commons.wikimedia.org/wiki/Special:FilePath/Murphy%20Sculpture%20Garden.jpg,,California,34.074444444,-118.440277777
+Q2945111,museum,Atlanta History Center,http://commons.wikimedia.org/wiki/Special:FilePath/Swan%20Coach%20House.jpg,https://www.atlantahistorycenter.com/,Fulton County,33.8421169,-84.3865305

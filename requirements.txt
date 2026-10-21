@@ -1,0 +1,4 @@
+requests>=2.31
+Pillow>=10.0
+ImageHash>=4.3
+dnspython>=2.4
