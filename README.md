@@ -37,6 +37,13 @@ cases in advance.
    extract an email, then verify it's actually deliverable with a raw SMTP
    handshake (no paid verification API).
 
+## How this ran in production
+
+A version of this pipeline ran at a US location-rental marketplace across
+two servers, processing 16,674 raw reverse-image matches down to 363
+verified leads at roughly 97% precision. That figure is on my CV; this
+repo is an independent rebuild on public data, not the production code.
+
 ## Results — measured, not estimated
 
 ### Reverse-image matching
@@ -138,3 +145,7 @@ No API keys required anywhere in this pipeline.
   code reports as `unknown` rather than guessing.
 - This generalizes production lessons onto public data; it is not the
   original system, which used different infrastructure and is not public.
+---
+Independent re-implementation, built on public/synthetic data as a portfolio
+piece. Not affiliated with, and contains no code or data from, any employer.
+
